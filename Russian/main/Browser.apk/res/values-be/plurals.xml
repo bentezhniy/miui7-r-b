@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">Апошнія %d дз.</item>
+        <item quantity="one">Сёння</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d з %2$d</item>
+        <item quantity="one">1 супадзенне</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">Супадзенняў: %d</item>
+        <item quantity="one">Супадзенняў: %d</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Блакавана: %d</item>
+        <item quantity="one">Блакавана: %d</item>
+    </plurals>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d из %2$d</item>
+        <item quantity="one">1 супадзенне</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Апошняе %d дз.</item>
+    </plurals>
+    <plurals name="miui_edit_mode_title">
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">Трэкаў: %d</item>
+        <item quantity="one">Трэкаў: %d</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">Альбомаў: %d</item>
+        <item quantity="one">Альбомаў: %d</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">Папулярных трэкаў: %d</item>
+        <item quantity="one">Папулярных трэкаў: %d</item>
+    </plurals>
+</resources>

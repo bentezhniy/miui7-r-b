@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Ясна</item>
+        <item>Воблачна</item>
+        <item>Пахмурна</item>
+        <item>Туман</item>
+        <item>Навальніца</item>
+        <item>Шторм</item>
+        <item>Моцная залева</item>
+        <item>Навальніца</item>
+        <item>Дождж</item>
+        <item>Залева</item>
+        <item>Дождж</item>
+        <item>Імжа</item>
+        <item>Снег з дажджом</item>
+        <item>Завіруха</item>
+        <item>Снег</item>
+        <item>Снегапад</item>
+        <item>Лёгкі снег</item>
+        <item>Невялікі снег</item>
+        <item>Пыльны шторм</item>
+        <item>Пясчаная навальніца</item>
+        <item>Умераны пыл</item>
+        <item>Ветрана</item>
+        <item>Град</item>
+        <item>Пыл</item>
+        <item>Смуга</item>
+        <item>Марозліва і дождж</item>
+        <item>Няма дадзеных</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Нізкі</item>
+        <item>Сярэдні</item>
+        <item>Умераны</item>
+        <item>Высокі</item>
+        <item>Небяспечны</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Вецер Пн</item>
+        <item>Вецер ПнУ</item>
+        <item>Вецер У</item>
+        <item>Вецер ПдУ</item>
+        <item>Вецер Пд</item>
+        <item>Вецер ПдУ</item>
+        <item>Вецер З</item>
+        <item>Вецер ПнЗ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Компас</string>
+    <string name="getting_location">Каліброўка…</string>
+    <string name="cannot_get_location">-</string>
+    <string name="location_north">"Паўночная
+шырыня"</string>
+    <string name="location_south">"Паўднёвая
+шырыня"</string>
+    <string name="location_east">"Усходняя
+даўжыня"</string>
+    <string name="location_west">"Заходняя
+даўжыня"</string>
+    <string name="menu_calibrate">Каліброўка компаса</string>
+    <string name="calibrate_success">Каліброўка завершана</string>
+    <string name="calibrate_failed_no_location">Памылка каліброўкі</string>
+    <string name="calibrate_failed_timeout">Не атрымалася падключыцца да сервера</string>
+    <string name="calibrate_failed">Памылка каліброўкі вышыні</string>
+    <string name="pressure_title">Ціск</string>
+    <string name="altitude_title">Вышыня</string>
+    <string name="pressure_unit">гПа</string>
+    <string name="altitude_unit">м</string>
+    <string name="dialog_title_no_network">Не атрымалася падключыцца да інтэрнэту</string>
+    <string name="dialog_calibrat_altitude">Каліброўка…</string>
+    <string name="latitude">Шырыня</string>
+    <string name="longitude">Даўжыня</string>
+    <string name="direction_north">Пн</string>
+    <string name="direction_south">Пд</string>
+    <string name="direction_east">У</string>
+    <string name="direction_west">З</string>
+    <string name="direction_north_east">ПнУ</string>
+    <string name="direction_north_west">ПнЗ</string>
+    <string name="direction_south_east">ПдУ</string>
+    <string name="direction_south_west">ПдЗ</string>
+    <string name="guide_toast">Выканайце каліброўку, павярцеўшы тэлефон так, як паказана на анімацыі.</string>
+    <string name="calibrate_altitude">Каліброўка</string>
+    <string name="mobiledata_alert_dialog_title">Папярэджанне</string>
+    <string name="mobiledata_alert_dialog_message">Дазволіць доступ у інтэрнэт для каліброўкі?</string>
+    <string name="do_not_show_next_time">Запомніць</string>
+    <string name="location_not_enabled_title">Папярэджанне</string>
+    <string name="location_not_enabled_summary">Уключыць сэрвісы вызначэння месцазнаходжання?</string>
+    <string name="location_enable">ОК</string>
+    <string name="location_enable_later">Адмена</string>
+    <string name="location_enabled">Сэрвісы вызначэння месцазнаходжання ўключаны</string>
+    <string name="using_camera_confirm_ok">ОК</string>
+    <string name="using_camera_confirm_cancel">Адмена</string>
+    <string name="shake_enter_tip">Патрасіце для каліброўкі</string>
+    <string name="calibrate_title">Каліброўка компасу</string>
+    <string name="calibrate_tip">Нахіляйце прыладу, каб шарык скатваўся па коле.</string>
+    <string name="calibrate_rotate_again">Паўтор</string>
+    <string name="using_camera_confirm_message">Дазволіць праграме выкарыстоўваць камеру?</string>
+    <string name="using_camera_confirm_title">Папярэджанне</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Выдаліць праграму \"%1$s\" і яшчэ %2$d?</item>
+        <item quantity="one">Выдаліць праграму \"%s\"?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">Праграм выдалена: %1$d</item>
+        <item quantity="zero">Праграм выдалена: %1$d</item>
+        <item quantity="one">Праграма выдалена</item>
+        <item quantity="two">Праграм выдалена: %1$d</item>
+        <item quantity="many">Праграм выдалена: %1$d</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">Не атрымалася выдаліць праграм: %2$d</item>
+        <item quantity="one">Не атрымалася выдаліць праграму \"%s\"</item>
+        <item quantity="two">Не атрымалася выдаліць праграмы \"%s\" і 1 іншую</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Выбрана: %1$d</item>
+        <item quantity="zero">Выбрана: %1$d</item>
+        <item quantity="one">Выбрана: %1$d</item>
+        <item quantity="two">Выбраны: %1$d</item>
+        <item quantity="few">Выбрана: %1$d</item>
+        <item quantity="many">Выбраны: %1$d</item>
+    </plurals>
+</resources>

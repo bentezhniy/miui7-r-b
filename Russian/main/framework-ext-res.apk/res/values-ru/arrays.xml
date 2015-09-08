@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="float_notification_whitelist">
+        <item>com.perm.kate.pro</item>
+        <item>com.google.android.talk</item>
+        <item>com.tencent.mm</item>
+        <item>com.google.android.youtube</item>
+        <item>com.vkmd.android</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.android.calendar</item>
+        <item>com.android.phone</item>
+        <item>com.android.mms</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.google.android.gm</item>
+        <item>com.android.email</item>
+        <item>android</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.updater</item>
+        <item>com.android.settings</item>
+        <item>com.android.bluetooth</item>
+        <item>com.whatsapp</item>
+        <item>org.telegram.messenger</item>
+    </string-array>
+    <string-array name="boot_msg_text">
+        <item>Оптимизация системы: 0%</item>
+        <item>Оптимизация системы: 1%</item>
+        <item>Оптимизация системы: 2%</item>
+        <item>Оптимизация системы: 3%</item>
+        <item>Оптимизация системы: 4%</item>
+        <item>Оптимизация системы: 5%</item>
+        <item>Оптимизация системы: 6%</item>
+        <item>Оптимизация системы: 7%</item>
+        <item>Оптимизация системы: 8%</item>
+        <item>Оптимизация системы: 9%</item>
+        <item>Оптимизация системы: 10%</item>
+        <item>Оптимизация системы: 11%</item>
+        <item>Оптимизация системы: 12%</item>
+        <item>Оптимизация системы: 13%</item>
+        <item>Оптимизация системы: 14%</item>
+        <item>Оптимизация системы: 15%</item>
+        <item>Оптимизация системы: 16%</item>
+        <item>Оптимизация системы: 17%</item>
+        <item>Оптимизация системы: 18%</item>
+        <item>Оптимизация системы: 19%</item>
+        <item>Оптимизация системы: 20%</item>
+        <item>Оптимизация системы: 21%</item>
+        <item>Оптимизация системы: 22%</item>
+        <item>Оптимизация системы: 23%</item>
+        <item>Оптимизация системы: 24%</item>
+        <item>Оптимизация системы: 25%</item>
+        <item>Оптимизация системы: 26%</item>
+        <item>Оптимизация системы: 27%</item>
+        <item>Оптимизация системы: 28%</item>
+        <item>Оптимизация системы: 29%</item>
+        <item>Оптимизация системы: 30%</item>
+        <item>Оптимизация системы: 31%</item>
+        <item>Оптимизация системы: 32%</item>
+        <item>Оптимизация системы: 33%</item>
+        <item>Оптимизация системы: 34%</item>
+        <item>Оптимизация системы: 35%</item>
+        <item>Оптимизация системы: 36%</item>
+        <item>Оптимизация системы: 37%</item>
+        <item>Оптимизация системы: 38%</item>
+        <item>Оптимизация системы: 39%</item>
+        <item>Оптимизация системы: 40%</item>
+        <item>Оптимизация системы: 41%</item>
+        <item>Оптимизация системы: 42%</item>
+        <item>Оптимизация системы: 43%</item>
+        <item>Оптимизация системы: 44%</item>
+        <item>Оптимизация системы: 45%</item>
+        <item>Оптимизация системы: 46%</item>
+        <item>Оптимизация системы: 47%</item>
+        <item>Оптимизация системы: 48%</item>
+        <item>Оптимизация системы: 49%</item>
+        <item>Оптимизация системы: 50%</item>
+        <item>Оптимизация системы: 51%</item>
+        <item>Оптимизация системы: 52%</item>
+        <item>Оптимизация системы: 53%</item>
+        <item>Оптимизация системы: 54%</item>
+        <item>Оптимизация системы: 55%</item>
+        <item>Оптимизация системы: 56%</item>
+        <item>Оптимизация системы: 57%</item>
+        <item>Оптимизация системы: 58%</item>
+        <item>Оптимизация системы: 59%</item>
+        <item>Оптимизация системы: 60%</item>
+        <item>Оптимизация системы: 61%</item>
+        <item>Оптимизация системы: 62%</item>
+        <item>Оптимизация системы: 63%</item>
+        <item>Оптимизация системы: 64%</item>
+        <item>Оптимизация системы: 65%</item>
+        <item>Оптимизация системы: 66%</item>
+        <item>Оптимизация системы: 67%</item>
+        <item>Оптимизация системы: 68%</item>
+        <item>Оптимизация системы: 69%</item>
+        <item>Оптимизация системы: 70%</item>
+        <item>Оптимизация системы: 71%</item>
+        <item>Оптимизация системы: 72%</item>
+        <item>Оптимизация системы: 73%</item>
+        <item>Оптимизация системы: 74%</item>
+        <item>Оптимизация системы: 75%</item>
+        <item>Оптимизация системы: 76%</item>
+        <item>Оптимизация системы: 77%</item>
+        <item>Оптимизация системы: 78%</item>
+        <item>Оптимизация системы: 79%</item>
+        <item>Оптимизация системы: 80%</item>
+        <item>Оптимизация системы: 81%</item>
+        <item>Оптимизация системы: 82%</item>
+        <item>Оптимизация системы: 83%</item>
+        <item>Оптимизация системы: 84%</item>
+        <item>Оптимизация системы: 85%</item>
+        <item>Оптимизация системы: 86%</item>
+        <item>Оптимизация системы: 87%</item>
+        <item>Оптимизация системы: 88%</item>
+        <item>Оптимизация системы: 89%</item>
+        <item>Оптимизация системы: 90%</item>
+        <item>Оптимизация системы: 91%</item>
+        <item>Оптимизация системы: 92%</item>
+        <item>Оптимизация системы: 93%</item>
+        <item>Оптимизация системы: 94%</item>
+        <item>Оптимизация системы: 95%</item>
+        <item>Оптимизация системы: 96%</item>
+        <item>Оптимизация системы: 97%</item>
+        <item>Оптимизация системы: 98%</item>
+        <item>Оптимизация системы: 99%</item>
+        <item>Оптимизация системы: 100%</item>
+    </string-array>
+</resources>

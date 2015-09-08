@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">Выклікі: %d</item>
+        <item quantity="one">Выклікі: 1</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">Паведамленні: %d</item>
+        <item quantity="one">Паведамленні: 1</item>
+    </plurals>
+</resources>

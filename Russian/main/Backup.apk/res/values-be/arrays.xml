@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_type_desc">
+        <item>Дадзеныя</item>
+        <item>Праграма</item>
+        <item>Праграма і дадзеныя</item>
+    </string-array>
+    <string-array name="backup_dialog_content_type">
+        <item>Параметры Wi-Fi</item>
+        <item>Усе праграмы</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Кантакты</item>
+        <item>Параметры Wi-Fi</item>
+        <item>Нататкі</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Кантакты</item>
+        <item>Журнал выклікаў</item>
+        <item>Паведамленні</item>
+        <item>Параметры Wi-Fi</item>
+        <item>Нататкі</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Журнал выклікаў</item>
+        <item>Паведамленні</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Кантакты</item>
+        <item>Журнал вызовов</item>
+        <item>Паведамленні</item>
+        <item>Мультымедыя паведамленні</item>
+        <item>Налады сістэмы</item>
+        <item>Параметры Wi-Fi</item>
+        <item>Працоўны стол</item>
+        <item>Будзільнік</item>
+        <item>Нататкі</item>
+        <item>Чорны спіс</item>
+        <item>Акаунт</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Браузер</item>
+        <item>Дазволы</item>
+        <item>Камера</item>
+        <item>Трафік</item>
+        <item>"Сервер надвор'я"</item>
+        <item>"Надвор'е"</item>
+    </string-array>
+</resources>

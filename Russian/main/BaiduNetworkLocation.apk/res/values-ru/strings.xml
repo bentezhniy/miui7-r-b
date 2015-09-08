@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="agree">Согласен</string>
+     <string name="always_wifi_scan_tip_content">Разрешить сетевому позиционированию и приложениям сканировать сети Wi-Fi, даже когда он выключен</string>
+     <string name="always_wifi_scan_tip_tittle">Разрешить сканирование</string>
+     <string name="app_label">Сетевое позиционирование</string>
+     <string name="app_name">Сетевое позиционирование</string>
+     <string name="changhong">nl1036</string>
+     <string name="close_agree">Да</string>
+     <string name="close_disagree">Нет</string>
+     <string name="disagree">Не согласен</string>
+     <string name="location_close_warning_message">Закрытие NetworkLocation не позволит приложениям определять местоположение.</string>
+     <string name="location_first_warning_message">Чтобы принести вам лучший опыт пользователя, система откроет службу сетевого позиционирования.</string>
+     <string name="location_warning_message">"Когда Поставщик сетевого расположения открыт, Байду сервис будет собирать анонимные данные о местоположении. Некоторые данные могут быть зашифрованы и сохранены на вашем устройстве. Шифрование и сбор может произойти, даже когда ни одно приложение не запущено. Вы будете платить за используемый трафик. Данные, зашифрованные и собранные будут использованы для получения информации о местоположении и повышение производительности и точности. Мы обещаем, что собранные данные не будут предоставляться третьим лицам или использоваться для иных целей, кроме предоставления услуг. Данные включают в себя: 
+- Идентификатор, уровень сигнала точек доступа WLAN вокруг; 
+- Идентификатор, уровень сигнала базовой станции (для GSM); 
+- Идентификатор, уровень сигнала базовой станции (для CDMA)."</string>
+     <string name="location_warning_message_1">"Разрешить службу определения местоположения, чтобы собирать анонимные данные о местоположении. Некоторые данные могут храниться на вашем устройстве, даже когда ни одно приложение не запущено. Может взиматься плата за используемый трафик."</string>
+     <string name="location_warning_title">Согласие на определение местоположения</string>
+     <string name="location_warning_title_1">Согласие на определение местоположения</string>
+     <string name="location_warning_title_close">Согласие на определение местоположения</string>
+     <string name="location_warning_title_close_1">Согласие на определение местоположения</string>
+     <string name="location_warning_title_first">Согласие на определение местоположения</string>
+     <string name="location_warning_title_first_1">Согласие на определение местоположения</string>
+     <string name="sanxing">124i</string>
+</resources>

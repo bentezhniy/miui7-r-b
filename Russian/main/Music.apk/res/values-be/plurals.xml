@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">Знойдзена трэкаў: %d</item>
+        <item quantity="one">Знойдзена трэкаў: %d</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Засталося дзён: %d</item>
+        <item quantity="one">Засталося дзён: %d</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">Трэкаў загружана: %d</item>
+        <item quantity="one">Трэк загружаны</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">Новых: %d</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">Трэкаў: %d</item>
+        <item quantity="one">Трэкаў: %d</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">Дададзена трэкаў у плэйліст: %d</item>
+        <item quantity="one">Трэк дададзены ў плэйліст</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">Выдалена трэкаў з плэйліста: %d</item>
+        <item quantity="one">Трэк выдалены з плэйліста</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">Трэкаў: %d</item>
+        <item quantity="one">Трэкаў: %d</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">Даслана трэкаў: %d</item>
+        <item quantity="one">Трэк дасланы</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">Трэкаў: %d</item>
+        <item quantity="one">Трэкаў: 1</item>
+    </plurals>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Добро пожаловать в</string>
+    <string name="input_method_setting">Метод ввода</string>
+    <string name="input_method_category">Выберите клавиатуру по умолчанию, которая будет использоваться при написании сообщений, заметок и т.д. Сторонние клавиатуры можно установить позже.</string>
+    <string name="provision_inputmethod_policy_description">"
+Политика конфиденциальности "</string>
+    <string name="provision_inputmethod_policy_description1">выбранной клавитауры</string>
+    <string name="multisim_settings_title">Обнаружено 2 SIM-карты</string>
+    <string name="multisim_settings_category">Настройки SIM-карт</string>
+    <string name="page_layout_title">Плотность экрана</string>
+    <string name="page_layout_label">Настройка размера шрифта и расположения иконок на главном экране, панели уведомлений, номеронабирателя и т.д.</string>
+    <string name="sim_card_detection">SIM-карта не найдена</string>
+    <string name="sim_card_detecting_title">Проверка SIM карты</string>
+    <string name="sim_card_detection_info">Вы не сможете настроить Mi аккаунт без SIM-карты, для синхронизации контактов, поиска телефона и т.д.</string>
+    <string name="sim_card_detecting">Проверка SIM-карты…</string>
+    <string name="other_settings">Дополнительные настройки</string>
+    <string name="other_settings_location">Доступ к местоположению</string>
+    <string name="other_settings_location_summary">Разрешать приложениям определять Ваше местоположение</string>
+    <string name="other_settings_user_experience">Обратная связь</string>
+    <string name="other_settings_user_experience_summary">Помогите улучшить MIUI, отправляя анонимные данные использования прошивки (%s)</string>
+    <string name="other_settings_user_experience_summary1">Политика конфиденциальности</string>
+    <string name="next">Далее</string>
+    <string name="skip_underline"><u>Пропустить</u></string>
+    <string name="sim_dectection_next">Продолжить</string>
+    <string name="shut_down">Выключить</string>
+    <string name="sim_redetection">Повторить</string>
+    <string name="title_congratulation">Поздравляем!</string>
+    <string name="congratulation_label">"Первоначальная настройка устройства завершена. Благодарим Вас за использование данной прошивки - Вы сделали правильный выбор!
+С уважением, коллектив MiuiPro."</string>
+    <string name="pref_title_voice_slot">SIM-карта для звонков</string>
+    <string name="pref_title_data_slot">SIM-карта для интернета</string>
+    <string name="summary_not_set">Не выбрано</string>
+    <string name="summary_sim_card">Карта %1$d</string>
+    <string name="summary_sim_card_with_operator">SIM карта %1$d, %2$s</string>
+    <string name="ime_privacy_policy">Конфиденциальность клавиатуры</string>
+    <string name="ime_privacy_policy_no_network">Не удается подключиться к интернету. Посмотрите политику конфиденциальности для этой клавиатуры на %s.</string>
+    <string name="terms_of_use">Условия использования</string>
+    <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши условия предоставления услуг и политику конфиденциальности, чтобы знать, какую информацию мы собираем, как мы ее используем и какие настройки доступны для Вас.
+\u0009 
+Вы должны согласиться с пользовательским соглашением и политикой конфиденциальности, прежде чем использовать MIUI."</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="agree">ОК</string>
+    <string name="disagree">Отмена</string>
+    <string name="network_access_warning">Требуется подключение к интернету для активации услуг Xiaomi</string>
+    <string name="setting_locale">Поиск местоположения…</string>
+    <string name="miui_terms_no_network">Нет подключения к сети. Посмотрите условия использования на %s</string>
+    <string name="miui_privacy_policy_no_network">Нет подключения к сети. Посмотрите политику конфиденциальности на %s</string>
+    <string name="locale_picker_title">Местоположение</string>
+    <string name="provision_finish">ОК</string>
+    <string name="provision_finish_restart">Перезагрузить</string>
+    <string name="install_preinstall_app">Загрузка приложений…</string>
+    <string name="congratulation_next">Начать работу</string>
+    <string name="logo_congratulation">Поздравляем</string>
+    <string name="locale_picker_desc">Если Вы хотите изменить свое местоположение позже, необходимо будет выполнить полный вайп.</string>
+    <string name="terms_of_service">Условия использования</string>
+    <string name="locale_picker_confirm_dialog_desc">Установить %s как Вашу страну?</string>
+    <string name="locale_picker_confirm_dialog_title">Местоположение</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сэрвіс UniPlay</string>
+    <string name="service_name">Сэрвіс UniPlay</string>
+    <string name="notification_rc_title">Аддаленае кіраванне Xiaomi</string>
+    <string name="notification_rc_desc">Вы можаце аддаленым доступам кіраваць Xiaomi box і TV</string>
+</resources>

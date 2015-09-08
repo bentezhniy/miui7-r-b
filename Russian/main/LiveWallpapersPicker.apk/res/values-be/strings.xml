@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Каталог жывых шпалераў</string>
+    <string name="live_wallpaper_picker_title">Абярыце жывыя шпалеры</string>
+    <string name="live_wallpaper_picker_label">Жывыя шпалеры</string>
+    <string name="live_wallpaper_preview_title">Перадпрагляд жывых шпалераў</string>
+    <string name="configure_wallpaper">Налады</string>
+    <string name="wallpaper_instructions">Усталяваць шпалеры</string>
+    <string name="live_wallpaper_empty">Няма жывых шпалераў</string>
+    <string name="set_live_wallpaper">Усталяваць фонавы малюнак</string>
+    <string name="wallpaper_title_and_author">%1$s, аўтар: %2$s</string>
+    <string name="live_wallpaper_loading">Загрузка жывых шпалераў…</string>
+    <string name="wallpaper_cancel">Адмена</string>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Засталося спробаў да блакіроўкі SIM-карты: %d.</item>
+        <item quantity="one">Засталося спробаў да блакіроўкі SIM-карты: %d.</item>
+    </plurals>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d сяк. назад</item>
+        <item quantity="one">1 сякунду назад</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв. назад</item>
+        <item quantity="one">1 хвіліну назад</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d г. назад</item>
+        <item quantity="one">1 гадзіну назад</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Апошнія %d дз.</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дз. назад</item>
+        <item quantity="one">учора</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">праз %d сяк.</item>
+        <item quantity="one">праз 1 сякунду</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хв.</item>
+        <item quantity="one">праз 1 хвіліну</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">праз %d г.</item>
+        <item quantity="one">праз 1 гадзіну</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">праз %d дз.</item>
+        <item quantity="one">заўтра</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d сяк. назад</item>
+        <item quantity="one">1 сякунду назад</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв. назад</item>
+        <item quantity="one">1 хвіліну назад</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d г. назад</item>
+        <item quantity="one">1 гадзіну назад</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d дз. назад</item>
+        <item quantity="one">учора</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">праз %d сяк.</item>
+        <item quantity="one">праз 1 сякунду</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв.</item>
+        <item quantity="one">праз 1 хвіліну</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">праз %d г.</item>
+        <item quantity="one">праз 1 гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">праз %d дз.</item>
+        <item quantity="one">заўтра</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d сяк.</item>
+        <item quantity="one">1 сяк.</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">1 г.</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Дасяжныя сеткі Wi-Fi</item>
+        <item quantity="one">Дасяжная сетка Wi-Fi</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Знойдзены сеткі Wi-Fi</item>
+        <item quantity="one">Знойдзена сетка Wi-Fi</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d з %2$d</item>
+        <item quantity="one">1 супадзенне</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Паўтарыце спробу праз %d сяк.</item>
+        <item quantity="one">Паўтарыце спробу праз 1 сяк.</item>
+    </plurals>
+</resources>

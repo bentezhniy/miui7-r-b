@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Апавяшчэнне</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Будзільнік</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Не нагадваць</item>
+        <item>Па факце</item>
+        <item>За 5 хвілін</item>
+        <item>За 10 хвілін</item>
+        <item>За 15 хвілін</item>
+        <item>За 30 хвілін</item>
+        <item>За гадзіну</item>
+        <item>За дзень</item>
+        <item>За 2 дня</item>
+        <item>За тыдзень</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Не нагадваць</item>
+        <item>Па факце</item>
+        <item>За 5 хвілін</item>
+        <item>За 10 хвілін</item>
+        <item>За 15 хвілін</item>
+        <item>За 30 хвілін</item>
+        <item>За гадзіну</item>
+        <item>За дзень</item>
+        <item>За 2 дні</item>
+        <item>За тыдзень</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Па рэгіёне</item>
+        <item>Субота</item>
+        <item>Нядзеля</item>
+        <item>Панядзелак</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалавы а-вы</item>
+        <item>Востраў Мідуэй</item>
+        <item>Гаваі</item>
+        <item>Аляска</item>
+        <item>Ціхаакеан. час</item>
+        <item>Ціхуана</item>
+        <item>Арызона</item>
+        <item>Чыўаўа</item>
+        <item>Горны час</item>
+        <item>Цэнтр. Амерыка</item>
+        <item>Цэнтр. час</item>
+        <item>Мехіка</item>
+        <item>Саскачаван</item>
+        <item>Багота</item>
+        <item>Усходні час</item>
+        <item>Венесуэла</item>
+        <item>Атлантыка (Барбадос)</item>
+        <item>Атлантыка (Канада)</item>
+        <item>Манаус</item>
+        <item>Санцьяга</item>
+        <item>Ньюфаўндлэнд</item>
+        <item>Бразілія</item>
+        <item>Буэнас-Айрэс</item>
+        <item>Грэнландыя</item>
+        <item>Монтэвідеа</item>
+        <item>Цэнтр. Атлантыка</item>
+        <item>Азорскія а-вы</item>
+        <item>А-вы Каба-Вердэ</item>
+        <item>Касабланка</item>
+        <item>Лондан, Дублін</item>
+        <item>Амстэрдам, Берлін</item>
+        <item>Белград</item>
+        <item>Брусэль</item>
+        <item>Сараева</item>
+        <item>Віндхук</item>
+        <item>Зах.-афр. час</item>
+        <item>Аман, Ярданія</item>
+        <item>Атэны, Стамбул</item>
+        <item>Бейрут, Ліван</item>
+        <item>Каір</item>
+        <item>Хельсінкі</item>
+        <item>Ерусалім</item>
+        <item>Менск</item>
+        <item>Харарэ</item>
+        <item>Багдад</item>
+        <item>Масква</item>
+        <item>Кувейт</item>
+        <item>Найробі</item>
+        <item>Цегеран</item>
+        <item>Баку</item>
+        <item>Тбілісі</item>
+        <item>Ерэван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Ісламабад, Карачы</item>
+        <item>Уральск</item>
+        <item>Екацерынбург</item>
+        <item>Калькутта</item>
+        <item>Шры-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Краснаярск</item>
+        <item>Бангкок</item>
+        <item>Пекін</item>
+        <item>Ганконг</item>
+        <item>Іркуцк</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токіё, Осака</item>
+        <item>Якуцк</item>
+        <item>Адэлаіда</item>
+        <item>Дарвін</item>
+        <item>Брысбен</item>
+        <item>Хобарт</item>
+        <item>Сіднэй, Канберра</item>
+        <item>Уладывасток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фіджы</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Заняты</item>
+        <item>Даступны</item>
+        <item>Не вызначаны</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Па змаўчанні</item>
+        <item>Закрытае</item>
+        <item>Для ўсіх</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>перш.</item>
+        <item>друг.</item>
+        <item>трэц.</item>
+        <item>чацверт.</item>
+        <item>апошн.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(няма адказу)</item>
+        <item>Так</item>
+        <item>Магчыма</item>
+        <item>Не</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Толькі гэта мерапрыемства</item>
+        <item>Гэта і будучыя мерапрыемствы</item>
+        <item>Усе мерапрыемствы</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Гэта і будучыя мерапрыемствы</item>
+        <item>Усе мерапрыемствы</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Толькі ў гэты раз</item>
+        <item>Усе мерапрыемствы ў серыі</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Дзень</item>
+        <item>Тыдзень</item>
+        <item>Месяц</item>
+        <item>Павестка дня</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Спазнюся на некалькі хвілін.</item>
+        <item>Буду там праз 10 хвілін.</item>
+        <item>Пачынайце без мяне.</item>
+        <item>Даруйце, я не магу гэта зрабіць. Трэба перагледзець расклад.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Заўжды</item>
+        <item>У рэжыме \"Без гука\"</item>
+        <item>Ніколі</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Празрысты</item>
+        <item>Белы</item>
+    </string-array>
+</resources>

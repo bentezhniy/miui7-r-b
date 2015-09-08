@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_icon_width">60.0dip</dimen>
+    <dimen name="config_icon_height">60.0dip</dimen>
+    <dimen name="workspace_cell_padding_bottom">123.0dip</dimen>
+    <dimen name="workspace_widget_cell_min_height">85.0dip</dimen>
+    <dimen name="thumbnail_icon_width">55.0dip</dimen>
+    <dimen name="thumbnail_icon_height">55.0dip</dimen>
+    <dimen name="hotseats_padding_side">7.0dip</dimen>
+    <dimen name="hotseats_padding_bottom">0.0dip</dimen>
+    <dimen name="hotseats_height">90.0dip</dimen>
+    <dimen name="folder_preview_top_margin">6.0dip</dimen>
+    <dimen name="folder_content_margin_bottom">13.0dip</dimen>
+    <dimen name="folder_content_margin_top">13.0dip</dimen>
+    <dimen name="icon_title_padding_bottom">8.0dip</dimen>
+    <item type="dimen" name="workspace_icon_text_shadow_radius">2.0</item>
+    <item type="dimen" name="workspace_icon_text_shadow_dx">0.0</item>
+    <item type="dimen" name="workspace_icon_text_shadow_dy">1.0</item>
+    <dimen name="free_style_apps_btn_text_size">11.0sp</dimen>
+    <dimen name="workspace_cell_padding_bottom_min">13.0dip</dimen>
+    <dimen name="workspace_seekbar_height">10.0dip</dimen>
+    <dimen name="folder_preview_width">48.0dip</dimen>
+    <dimen name="folder_preview_height">48.0dip</dimen>
+    <dimen name="folder_header_padding_left">10.0dip</dimen>
+    <dimen name="folder_header_padding_right">14.0dip</dimen>
+    <dimen name="folder_header_padding_bottom">3.0dip</dimen>
+    <dimen name="workspace_icon_text">12.0sp</dimen>
+    <dimen name="weather_city_text_size">13.0dip</dimen>
+    <dimen name="weather_aqi_text_size">13.0dip</dimen>
+    <dimen name="weather_date_text_size">13.0dip</dimen>
+</resources>

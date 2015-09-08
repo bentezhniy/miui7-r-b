@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size_large">35.0dip</dimen>
+    <dimen name="message_content_panel_min_height">42.0px</dimen>
+    <dimen name="message_body_text_font_size">20.0px</dimen>
+    <dimen name="message_edit_counter_text_font_size">9.0dip</dimen>
+    <dimen name="message_header_title_text_font_size">13.0dip</dimen>
+    <item type="dimen" name="edit_text_size">16.0px</item>
+</resources>

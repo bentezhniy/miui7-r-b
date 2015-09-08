@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Дакументы</string>
+    <string name="title_open">Адчыніць</string>
+    <string name="title_save">Захаваць</string>
+    <string name="menu_create_dir">Стварыць папку</string>
+    <string name="menu_grid">Сетка</string>
+    <string name="menu_list">Спіс</string>
+    <string name="menu_sort">Сартыроўка</string>
+    <string name="menu_search">Пошук</string>
+    <string name="menu_settings">Налады</string>
+    <string name="menu_open">Адчыніць</string>
+    <string name="menu_save">Захаваць</string>
+    <string name="menu_share">Даслаць</string>
+    <string name="menu_delete">Выдаліць</string>
+    <string name="mode_selected_count">Абрана: %1$d</string>
+    <string name="sort_name">Па імені</string>
+    <string name="sort_date">Па даце</string>
+    <string name="sort_size">Па памеры</string>
+    <string name="drawer_open">Паказаць карнявую папку</string>
+    <string name="drawer_close">Схаваць карнявую папку</string>
+    <string name="save_error">Памылка захавання дакумента</string>
+    <string name="create_error">Памылка стварэння файла</string>
+    <string name="query_error">Памылка адкрыцця дакумента</string>
+    <string name="root_recent">Нядаўнія</string>
+    <string name="root_available_bytes">Вольна: %1$s</string>
+    <string name="root_type_service">Тып захоўвання</string>
+    <string name="root_type_shortcut">Цэтлікі</string>
+    <string name="root_type_device">Прылады</string>
+    <string name="root_type_apps">Іншыя праграмы</string>
+    <string name="pref_advanced_devices">Паказваць іншыя прылады</string>
+    <string name="pref_file_size">Паказваць памер файла</string>
+    <string name="pref_device_size">Паказваць памер прылады</string>
+    <string name="empty">Пуста</string>
+    <string name="toast_no_application">Немагчыма адчыніць файл</string>
+    <string name="toast_failed_delete">Немагчыма выдаліць некаторыя элементы</string>
+    <string name="share_via">Спосаб дасылання</string>
+    <string name="toast_not_show_thumbnail">Не хапае аператыўнай памяці для адлюстравання эскізу</string>
+    <string name="menu_advanced_hide">Схаваць унутраны назапашвальнік</string>
+    <string name="menu_advanced_show">Паказаць унутраны назапашвальнік</string>
+    <string name="menu_file_size_hide">Схаваць памер файлаў</string>
+    <string name="menu_file_size_show">Паказаць памер файлаў</string>
+    <string name="menu_select">Абярыце \"^1\"</string>
+</resources>

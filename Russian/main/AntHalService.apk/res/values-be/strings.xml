@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сэрвіс ANT HAL</string>
+    <string name="permdesc_antradio">Дазваляе праграме наўпрост наладзіць сэрвіс радыё ANT.</string>
+    <string name="permlab_antradio">Выкарыстоўваць абсталяванне ANT</string>
+    <string name="permdesc_ant">Дазваляе праграме злучацца з прыладамі ANT, выкарыстоўваючы службу проксі. Шкодныя праграмы могуць атрымліваць і перадаваць інфармацыю на ANT-прылады без вас.</string>
+    <string name="permlab_ant">Выкарыстоўваць інтэрфейс сэрвіса ANT</string>
+    <string name="permdesc_antAdmin">Дазваляе праграме наўпрост наладзіць сэрвіс радыё ANT праз службу проксі.</string>
+    <string name="permlab_antAdmin">Зменьваць налады сэрвіса ANT</string>
+</resources>

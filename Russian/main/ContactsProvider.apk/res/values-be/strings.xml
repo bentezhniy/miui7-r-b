@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Праграмы ядра Android</string>
+    <string name="app_label">Сховішча кантактаў</string>
+    <string name="provider_label">Кантакты</string>
+    <string name="upgrade_msg">Абнаўленне базы дадзеных кантактаў…</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Для абнаўлення кантакта патрабуецца больш памяці</string>
+    <string name="upgrade_out_of_memory_notification_title">Абнаўленне сховішча кантактаў</string>
+    <string name="upgrade_out_of_memory_notification_text">Націсніце, каб завяршыць абнаўленне</string>
+    <string name="default_directory">Кантакты</string>
+    <string name="local_invisible_directory">Іншае</string>
+    <string name="read_write_all_voicemail_label">Доступ да ўсёй галасавой пошты</string>
+    <string name="read_write_all_voicemail_description">Дазволіць праграме захоўваць і выцягваць усе галасавыя паведамленні, да якіх ёсць доступ на гэтай прыладзе</string>
+    <string name="voicemail_from_column">"Галасавое паведамленне ад кантакта "</string>
+    <string name="debug_dump_title">Капіяванне базы кантактаў</string>
+    <string name="debug_dump_database_message">Вы збіраецеся зрабіць копію вашай базы кантактаў, якая ўключае ў сябе ўсе дадзеныя кантактаў і журналы выклікаў, і даслаць яе па электроннай пошце. Не забудзьце выдалиць копію пасля дасылання.</string>
+    <string name="debug_dump_delete_button">Выдаліць</string>
+    <string name="debug_dump_start_button">Пачаць</string>
+    <string name="debug_dump_email_sender_picker">Спосаб дасылання</string>
+    <string name="debug_dump_email_subject">База кантактаў</string>
+    <string name="debug_dump_email_body">Гэта база маіх кантактаў з усімі дадзенымі</string>
+    <string name="pound_search_tip">Увядзіце нумар для пошуку кантактаў SIM</string>
+    <string name="create_contact">Новы кантакт</string>
+    <string name="send_sms">Даслаць паведамленне</string>
+    <string name="search_the_yellowpage">Пошук у сэрвісах</string>
+    <string name="edit_contact">Дадаць да кантакта</string>
+    <string name="call_log_provider_label">Журнал выклікаў</string>
+    <string name="third_party_delete_contact_info">Праграма \"%s\" спрабуе выдаліць кантакты. Гэта дзеянне не можа быць выканана чужой праграмай. Для гэтага выкарыстоўвайце стандартную праграму \"Кантакты\".</string>
+    <string name="group_name_contacts">Кантакты</string>
+    <string name="group_name_coworkers">Калегі</string>
+    <string name="group_name_family">"Сям'я"</string>
+    <string name="group_name_friends">Сябры</string>
+    <string name="unknown">Невядомы нумар</string>
+</resources>

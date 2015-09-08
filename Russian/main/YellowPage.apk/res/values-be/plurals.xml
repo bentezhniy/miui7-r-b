@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="more_coupons_count">
+        <item quantity="other">Купонаў: %d</item>
+        <item quantity="one">Купонаў: 1</item>
+    </plurals>
+    <plurals name="review_count">
+        <item quantity="other">Паказаць усе водгукі (%d)</item>
+        <item quantity="one">Паказаць водгук</item>
+    </plurals>
+</resources>

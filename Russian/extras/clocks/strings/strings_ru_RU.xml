@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    <string name="date_time" value="EEE, d MMMM"/>
+    <string name="language" value="ru"/>
+    <string name="desc_date_format" value="EEEE, dd MMMM"/>
+    <string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', нажмите дважды, что бы открыть Часы'"/>
+</strings>

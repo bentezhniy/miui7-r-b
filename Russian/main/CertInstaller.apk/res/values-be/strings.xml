@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Праграма ўсталёўкі сертыфіката</string>
+    <string name="pick_file_title">Абярыце сертыфікат</string>
+    <string name="pkcs12_password_dialog_title">Выцягванне сертыфіката</string>
+    <string name="extracting_pkcs12">Выцягванне…</string>
+    <string name="pkcs12_file_password_dialog_title">Выцягванне з %s</string>
+    <string name="name_credential_dialog_title">Адзначце назву сертыфіката</string>
+    <string name="credential_name">Назва сертыфіката:</string>
+    <string name="credential_password">Увядзіце пароль для выцягвання сертыфікатаў.</string>
+    <string name="credential_info">Пакет змяшчае:</string>
+    <string name="p12_description">Сертыфікат знаходзіцца ў сховішчы ключоў PKCS12.</string>
+    <string name="one_userkey">Адзін ключ карыстальніка</string>
+    <string name="one_usercrt">Адзін карыстальніцкі сертыфікат</string>
+    <string name="one_cacrt">Адзін сертыфікат цэнтра сертыфікаціі</string>
+    <string name="n_cacrts">Сертыфікатаў цэнтра сертыфікаціі: %d</string>
+    <string name="password_error">Увядзіце слушны пароль.</string>
+    <string name="password_empty_error">Увядзіце пароль.</string>
+    <string name="name_empty_error">Увядзіце назву.</string>
+    <string name="name_char_error">Імя павінна складацца з літар і лічб.</string>
+    <string name="storage_error">Не атрымліваецца захаваць сертыфікат. Націсніце ОК і паўтарыце спробу.</string>
+    <string name="unable_to_save_cert">Не атрымліваецца захаваць сертыфікат. Сховішча рэгістрацыйных дадзеных не ўключана ці некарэктна ініцыялізавана.</string>
+    <string name="cert_not_saved">Сертыфікат не ўсталяваны.</string>
+    <string name="no_cert_to_saved">Адсутнічае сертыфікат для ўсталёўкі</string>
+    <string name="invalid_cert">Сертыфікат няслушны.</string>
+    <string name="cert_is_added">%s усталяваны.</string>
+    <string name="cert_too_large_error">Памылка ўсталёўкі. Памер сертыфіката занадта вялікі.</string>
+    <string name="cert_missing_error">Усталёўка завяршылася збоем. Не атрымліваецца знайсці файл сертыфіката.</string>
+    <string name="cert_read_error">Усталёўка завяршылася збоем. Не атрымліваецца прачытаць файл сертыфіката.</string>
+    <string name="no_cert_file_found">На SD-картцы адсутнічае файл сертыфіката</string>
+    <string name="sdcard_not_present">SD-картка адсутнічае.</string>
+    <string name="only_primary_user_allowed">Толькі уласкнік гэтай прылады можа ўсталёўваць сертыфікаты</string>
+    <string name="credential_usage_label">Папярэджанне:</string>
+    <string name="generic_no_cert_file_found">Не знойдзены файл сертыфіката ў сховішчы</string>
+    <string name="generic_sdcard_not_present">Няма сховішча</string>
+    <string name="no_cert_file_found_sd">На SD-картцы адсутнічае файл сертыфіката</string>
+    <string name="one_wapi_ascrt">адзін WAPI AS-сертыфікат</string>
+    <string name="one_wapi_usercrt">адзін WAPI-сертыфікат карыстальніка</string>
+    <string name="sdcard_not_present_sd">SD-картка адсутнічае</string>
+</resources>

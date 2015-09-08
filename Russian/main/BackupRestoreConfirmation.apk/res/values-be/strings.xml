@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Поўнае рэзервовае капіяванне</string>
+    <string name="restore_confirm_title">Поўнае аднаўленне</string>
+    <string name="backup_confirm_text">"Запытана рэзервовае капіяванне усіх дадзеных на падлучаным кампутары. Дазволіць?
+\u0009
+Калі вы не запрошвалі гэта, не дазваляйце выконваць аперацыю."</string>
+    <string name="allow_backup_button_label">Стварыць рэзервовую копію дадзеных</string>
+    <string name="deny_backup_button_label">Не ствараць рэзервовую копію</string>
+    <string name="restore_confirm_text">"Падлучаны кампутар запрошвае аднаўленне усіх дадзеных. Дазволіць?
+\u0009
+Калі вы не запрошвалі гэта, не дазваляйце выконваць аперацыю, бо яна заменіць усе дадзеныя на гэтай прыладзе."</string>
+    <string name="allow_restore_button_label">Аднавіць дадзеныя</string>
+    <string name="deny_restore_button_label">Не аднаўляць</string>
+    <string name="current_password_text">Набярыце пароль для рэзервовага капіявання:</string>
+    <string name="device_encryption_restore_text">Набярыце пароль для шыфравання прылады.</string>
+    <string name="device_encryption_backup_text">Набярыце пароль для шыфравання прылады і архіва резервовых копій.</string>
+    <string name="backup_enc_password_text">Набярыце пароль для шыфравання ўсіх рэзервовых дадзеных. Калі поле застанецца пустым, будзе выкарыстаны бягучы пароль:</string>
+    <string name="backup_enc_password_optional">Каб зашыфраваць усе резервовыя дадзеныя, набярыце пароль:</string>
+    <string name="restore_enc_password_text">Калі адноўленыя дадзеныя зашыфраваны, набярыце пароль:</string>
+    <string name="toast_backup_started">Резервовае капіяванне…</string>
+    <string name="toast_backup_ended">Резервовае капіяванне скончана</string>
+    <string name="toast_restore_started">Аднаўленне…</string>
+    <string name="toast_restore_ended">Аднаўленне скончана</string>
+    <string name="toast_timeout">Час чакання скончыўся</string>
+    <string name="backup_enc_password_required">На прыладзе ўключана шыфраванне. Яно будзе прыменена і да рэзервовай копіі дадзеных. Увядзіце пароль.</string>
+</resources>

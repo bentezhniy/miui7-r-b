@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM сэрвіс</string>
+    <string name="app_name2">SIM сэрвіс 2</string>
+    <string name="app_name3">SIM сэрвіс 3</string>
+    <string name="menu_end_session">Скончыць сеанс</string>
+    <string name="help">Даведка</string>
+    <string name="menu_back">Назад</string>
+    <string name="service_name">Назва службы</string>
+    <string name="stk_no_service">Па-за зонай абслугоўвання</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Адмена</string>
+    <string name="button_yes">Так</string>
+    <string name="button_no">Няма</string>
+    <string name="alphabet">Алфавіт</string>
+    <string name="digits">Лічбы (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Выклік…</string>
+    <string name="default_setup_call_msg">Усталёўка злучэння</string>
+    <string name="stk_app_state">Стан праграмы</string>
+    <string name="enable_app">Уключана</string>
+    <string name="disable_app">Адключана</string>
+    <string name="stk_dialog_title">SIM-сэрвіс</string>
+    <string name="default_tone_dialog_msg">Прайграванне мелодыі</string>
+    <string name="default_open_channel_msg">Адчыніць канал?</string>
+    <string name="default_send_data_msg">Адсылка дадзеных…</string>
+    <string name="default_receive_data_msg">Прыём дадзеных…</string>
+    <string name="default_close_channel_msg">Канал зачынены</string>
+    <string name="stk_dialog_accept">ОК</string>
+    <string name="stk_dialog_reject">Адмена</string>
+    <string name="airplanemode">Не атрымалася запусціць праграму. Уключаны рэжым палёту.</string>
+    <string name="stk_intent_permission">Дазволіць STK-запыты</string>
+</resources>

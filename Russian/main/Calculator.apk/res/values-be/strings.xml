@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятар</string>
+    <string name="error">Памылка</string>
+    <string name="clear_history">Ачысціць гісторыю</string>
+    <string name="text_copied_toast">Тэкст скапіяваны</string>
+    <string name="leftParenDesc">Левая дужка</string>
+    <string name="rightParenDesc">Правая дужка</string>
+    <string name="factorialDesc">Фактарыял</string>
+    <string name="lnDesc">Натуральны лагарыфм</string>
+    <string name="lgDesc">Лагарыфм</string>
+    <string name="sqrtDesc">Квадратны корань</string>
+    <string name="minusDesc">Мінус</string>
+    <string name="eDesc">Лічба Эйлера</string>
+    <string name="advanced">Дадатковая панэль</string>
+    <string name="basic">Асноўная панэль</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Хатні</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Абраць</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Працоўны</item>
+        <item>Іншае</item>
+        <item>Абраць</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Хатні</item>
+        <item>Мабільны</item>
+        <item>Працоўны</item>
+        <item>Працоўны факс</item>
+        <item>Хатні факс</item>
+        <item>Пэйджар</item>
+        <item>Іншы</item>
+        <item>Абраць</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Хатні</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Абраць</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Хатні</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Абраць</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба выкарыстання вібраціі</item>
+        <item>Спроба чытання кантактаў</item>
+        <item>Спроба змянення кантактаў</item>
+        <item>Спроба чытання журнала выклікаў</item>
+        <item>Спроба змянення журнала выклікаў</item>
+        <item>Спроба чытання календара</item>
+        <item>Спроба змянення календара</item>
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба вываду апавяшчэння</item>
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба атрымання выкліка</item>
+        <item>Спроба чытання паведамленняў</item>
+        <item>Спроба чытання і змянення паведамленняў</item>
+        <item>Спроба атрымання паведамлення</item>
+        <item>Спроба атрымання паведамлення</item>
+        <item>Спроба атрымання паведамлення</item>
+        <item>Спроба атрымання паведамлення</item>
+        <item>Спроба дасылання паведамлення</item>
+        <item>Спроба чытання паведамленняў</item>
+        <item>Спроба чытання і змянення паведамленняў</item>
+        <item>Спроба змянення наладаў</item>
+        <item>"Спроба пад'ёму"</item>
+        <item>Спроба атрымання досягу да апавяшчэнняў</item>
+        <item>Спроба атрымання досягу да камеры</item>
+        <item>Спроба запісу гуку</item>
+        <item>Спроба прайгравання гуку</item>
+        <item>Спроба чытання буфера абмену</item>
+        <item>Спроба змянення буфера абмену</item>
+        <item>Спроба выкарыстання кнопак медыя</item>
+        <item>Спроба выкарыстання фокуса гука</item>
+        <item>Спроба выкарыстання агульнай гучнасці</item>
+        <item>Спроба выкарыстання гучнасці размовы</item>
+        <item>Спроба выкарыстання гучнасці выкліку</item>
+        <item>Спроба выкарыстання гучнасці медыя</item>
+        <item>Спроба выкарыстання гучнасці будзільніка</item>
+        <item>Спроба выкарыстання гучнасці апавяшчэнняў</item>
+        <item>Спроба выкарыстання гучнасці bluetooth</item>
+        <item>Спроба утрымліваць экран уключаным</item>
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба атрымання досяга да месцазнаходжання</item>
+        <item>Спроба уключэння/выключэння Wi-Fi</item>
+        <item>Спроба уключэння/выключэння Bluetooth</item>
+        <item>Спроба уключэння/выключэння мабільнага інтэрнэта</item>
+        <item>Спроба дасылання MMS</item>
+        <item>Спроба чытання MMS</item>
+        <item>Спроба стварэння MMS</item>
+        <item>Спроба запуска</item>
+    </string-array>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>Будзільнік зазвініць менш, чым праз хвіліну</item>
+        <item>Будзільнік зазвініць праз %1$s</item>
+        <item>Будзільнік зазвініць праз %2$s</item>
+        <item>Будзільнік зазвініць праз %1$s і %2$s</item>
+        <item>Будзільнік зазвініць праз %3$s</item>
+        <item>Будзільнік зазвініць праз %1$s і %3$s</item>
+        <item>Будзільнік зазвініць праз %2$s і %3$s</item>
+        <item>Будзільнік зазвініць праз %1$s, %2$s і %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>"Учора "</item>
+        <item>Сёння</item>
+        <item>"Заўтра "</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Аднаразова</item>
+        <item>Штодзённа</item>
+        <item>"У працоўныя дні "</item>
+        <item>Па будных днях</item>
+        <item>Абраць дні</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Аднаразова</item>
+        <item>Штодзённа</item>
+        <item>Па будных днях</item>
+        <item>Абраць дні</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Будзільнік зазвініць менш, чым праз хвіліну</item>
+        <item>Будзільнік зазвініць праз %1$s</item>
+        <item>Будзільнік зазвініць праз %2$s</item>
+        <item>Будзільнік зазвініць праз %1$s і %2$s</item>
+        <item>Будзільнік зазвініць праз %3$s</item>
+        <item>Будзільнік зазвініць праз %1$s і %3$s</item>
+        <item>Будзільнік зазвініць праз %2$s і %3$s</item>
+        <item>Будзільнік зазвініць праз %1$s, %2$s і %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>на 1 хвіліну</item>
+        <item>на 5 хвілін</item>
+        <item>на 10 хвілін</item>
+        <item>на 15 хвілін</item>
+        <item>на 20 хвілін</item>
+        <item>на 25 хвілін</item>
+        <item>на 30 хвілін</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Выключана</item>
+        <item>1 хвіліна</item>
+        <item>5 хвілін</item>
+        <item>10 хвілін</item>
+        <item>15 хвілін</item>
+        <item>20 хвілін</item>
+        <item>25 хвілін</item>
+        <item>30 хвілін</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Няма</item>
+        <item>Адкласці</item>
+        <item>Выключыць</item>
+    </string-array>
+</resources>

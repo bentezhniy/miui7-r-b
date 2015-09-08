@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Мультымедыя</string>
+    <string name="app_label">Сховішча мультымедыя</string>
+    <string name="upgrade_msg">Абнаўленне базы дадзеных мультымедыя…</string>
+    <string name="artist_label">Выканаўца</string>
+    <string name="ringtone_default">Мелодыя па змаўчанні</string>
+    <string name="notification_sound_default">Гук апавяшчэння па змаўчанні</string>
+    <string name="alarm_sound_default">Гук будзільніка па змаўчанні</string>
+    <string name="root_images">Выявы</string>
+    <string name="root_videos">Відэа</string>
+    <string name="root_audio">Аўдыё</string>
+</resources>

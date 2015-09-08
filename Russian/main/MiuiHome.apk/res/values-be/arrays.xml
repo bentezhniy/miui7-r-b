@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Стандарт</item>
+        <item>Без эфектаў</item>
+        <item>Згасанне</item>
+        <item>Паварот</item>
+        <item>Гартанне</item>
+        <item>Каскад</item>
+        <item>Вярчэнне</item>
+        <item>3D куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Уключана</item>
+        <item>Выключана (шпалеры па центры)</item>
+        <item>Выключана (шпалеры злева)</item>
+        <item>Выключана (шпалеры справа)</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Па змаўчанні</item>
+        <item>Класічны</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Сонечна</item>
+        <item>Воблачна</item>
+        <item>Воблачна</item>
+        <item>Туман</item>
+        <item>Моцны дождж</item>
+        <item>Залева</item>
+        <item>Залева з ураганам</item>
+        <item>Месцамі навальніца</item>
+        <item>Залевы</item>
+        <item>Моцны дождж</item>
+        <item>Умераны дождж</item>
+        <item>Невялікі дождж</item>
+        <item>Дождж са снегам</item>
+        <item>Завіруха</item>
+        <item>Залевы са снегам</item>
+        <item>Моцны снегапад</item>
+        <item>Умераны снег</item>
+        <item>Невялікі снег</item>
+        <item>Моцная пылевая навальніца</item>
+        <item>Пылевая навальніца</item>
+        <item>Пыл</item>
+        <item>Пясчаная навальніца</item>
+        <item>Град</item>
+        <item>Бруд</item>
+        <item>Смог</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Сартыроўка</item>
+        <item>Віджэты</item>
+        <item>Шпалеры</item>
+        <item>Эфекты</item>
+    </string-array>
+</resources>

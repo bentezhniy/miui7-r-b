@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caller_app">Запыт: %1$s</string>
+    <string name="safe_guard_support">Падтрымка: %1$s</string>
+    <string name="safe_relative">Бяспечныя дазволы</string>
+    <string name="privacy_relative">Небяспечныя дазволы</string>
+    <string name="other_relative">Іншыя дазволы</string>
+    <string name="perm_notice">Апавяшчэнне бяспекі</string>
+    <string name="trust_switch_dialog_msg">Сістэма не будзе пытацца вашага дазволу на любыя дзеянні гэтай праграмы</string>
+    <string name="auto_startup_dialog_msg">Сістэма дазволіць праграме запускацца аўтаматычна</string>
+    <string name="low_risk_perms">Дазволы нізкай рызыкі</string>
+    <string name="high_risk_perms">Дазволы высокай рызыкі</string>
+    <string name="perm_privacy_app_finish">Зачыніць</string>
+    <string name="perm_privacy_app_launch">Адчыніць</string>
+    <string name="perm_privacy_app_installed">Усталёўка завершана!</string>
+    <string name="perm_sysopt_boost_auto_start">Дазволіць аўтазапуск</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Дазволіць праграме аўтазапуск пры загрузцы тэлефона</string>
+    <string name="perm_privacy_app_trust">Давяраць праграме</string>
+    <string name="perm_privacy_app_trust_summary">Сістэма не будзе сачыць за гэтай праграмай</string>
+    <string name="perm_action_accept">Дазволіць</string>
+    <string name="perm_action_prompt">Запыт</string>
+    <string name="perm_action_reject">Забараніць</string>
+    <string name="unknown_installer">Невядомы ўсталёўніка ПК</string>
+    <string name="dlg_app_replacement_statement_with_version">"Праграма: %1$s 
+Усталяваная версія: %3$s 
+Версія абнаўлення: %2$s 
+
+Усе карыстальніцкія дадзеныя будуць захаваны.
+Працягнуць усталёўку?"</string>
+    <string name="lift_ban">Зняць забарону</string>
+    <string name="uninstall_confirm_question">Выдаліць гэту праграму?</string>
+    <string name="uninstall_failed_retained_app_msg">Праграма, змененая аператарам, не можа быць выдалена</string>
+    <string name="install_failed_system_incompatible">Гэта праграма не сумяшчальная з сістэмай MIUI</string>
+    <string name="permission_group_title_charges_related">Тэлефон</string>
+    <string name="permission_group_title_privacy_related">Канфідэнцыяльнасць</string>
+    <string name="permission_group_title_media_related">Медыя</string>
+    <string name="permission_group_title_settings_related">Налады</string>
+    <string name="permission_group_title_others">Іншае</string>
+    <string name="permission_action_accept">Дазволіць</string>
+    <string name="permission_action_prompt">С запытам</string>
+    <string name="permission_action_reject">Забараніць</string>
+    <string name="permission_send_sms_descx">Праграма можа дасылаць SMS і MMS</string>
+    <string name="virus_scan_install">" "<u>працягнуць усталёўку</u>" "</string>
+    <string name="virus_scan_is_virus">Праграма змяшчае вірус, рэкамендуецца выдаліць!</string>
+    <string name="virus_scan_is_risk">Праграма змяшчае парозу, працягнуць усталёўку?</string>
+    <string name="virus_scan_clear">Выдаліць</string>
+    <string name="virus_scan_caller_unknown">Невядома</string>
+    <string name="app_name">Усталёўка праграм</string>
+    <string name="install">Усталяваць</string>
+    <string name="done">Гатова</string>
+    <string name="security_settings_desc">Дазволіць гэтай праграме:</string>
+    <string name="cancel">Адмена</string>
+    <string name="unknown">Невядома</string>
+    <string name="installing">Усталёўка…</string>
+    <string name="install_done">Праграма ўсталяваная</string>
+    <string name="install_confirm_question">Усталяваць гэту праграму?</string>
+    <string name="install_failed">Праграма не ўсталяваная</string>
+    <string name="install_failed_invalid_apk">Файл пашкоджаны</string>
+    <string name="install_failed_inconsistent_certificates">Подпіс абнаўлення не супадае з подпісам усталяванай праграмы. Перад усталёўкай выдаліце старую версію.</string>
+    <string name="install_failed_older_sdk">Гэты пакет падтрымліваецца толькі ў сістэме Android больш позніх версій</string>
+    <string name="install_failed_cpu_abi_incompatible">Працэсар тэлефона не падтрымлівае гэту праграму</string>
+    <string name="install_failed_file_not_found">Абазначаны пакет выдалены да завяршэння ўсталёўкі</string>
+    <string name="install_failed_verify_failed">Пакет не правераны і не можа быць усталяваны</string>
+    <string name="install_failed_verify_timeout">Не атрымалася праверыць пакет. Паспрабуйце ўсталяваць яго пазней.</string>
+    <string name="install_failed_msg">Не атрымалася ўсталяваць праграму \"%1$s\"</string>
+    <string name="launch">Адчыніць</string>
+    <string name="unknown_apps_dlg_title">Усталёўка заблакаваная</string>
+    <string name="unknown_apps_dlg_text">Для забеспячэння бяспекі на вашым тэлефоне заблакаваная ўсталёўка праграм, атрыманых не з Google Play</string>
+    <string name="ok">ОК</string>
+    <string name="settings">Налады</string>
+    <string name="allow_source_dlg_title">Дазволіць дадаванне новай крыніцы для праграм?</string>
+    <string name="allow_source_dlg_text">"%1$s хоча ўсталяваць іншыя праграмы.
+
+Дазволіць і запомніць выбар?"</string>
+    <string name="manage_applications">Кіраванне</string>
+    <string name="dlg_app_replacement_title">Замена праграмы</string>
+    <string name="dlg_app_replacement_statement">"Праграма, якую вы ўсталёўваеце, заменіць ужо існуючую.
+
+Усе карыстальніцкія дадзеныя будуць захаваны."</string>
+    <string name="dlg_sys_app_replacement_statement">"Праграма, якую вы ўсталёўваеце, з'яўляецца сістэмнай.
+
+Усе карыстальніцкія дадзеныя будуць захаваны.
+Працягнуць усталёўку?"</string>
+    <string name="out_of_space_dlg_title">Недастаткова месца</string>
+    <string name="out_of_space_dlg_text">Не атрымалася ўсталяваць праграму \"%1$s\". Вызваліце памяць і паўтарыце спробу.</string>
+    <string name="dlg_ok">ОК</string>
+    <string name="app_not_found_dlg_title">Праграма не знойдзена</string>
+    <string name="app_not_found_dlg_text">Праграма не была знойдзена ў спісе ўсталяваных праграм</string>
+    <string name="uninstall_application_title">Выдаленне праграмы</string>
+    <string name="uninstall_update_title">Выдаленне абнаўлення</string>
+    <string name="uninstall_activity_text">"\"%1$s\" з'яўляецца часткай абранай праграмы."</string>
+    <string name="uninstall_application_text">Праграма будзе выдалена</string>
+    <string name="uninstall_update_text">Будзе адноўлена зыходная версія праграмы</string>
+    <string name="uninstalling">Выдаленне…</string>
+    <string name="uninstall_done">Выдаленне завершана</string>
+    <string name="uninstall_failed">Памылка пры выдаленні</string>
+    <string name="uninstall_failed_device_policy_manager">Не атрымалася выдаліць пакет, бо ён абраны для адміністравання прылады</string>
+    <string name="manage_device_administrators">Налады адміністравання</string>
+    <string name="uninstall_failed_msg">Выдаліць праграму %1$s не атрымалася</string>
+    <string name="Parse_error_dlg_title">Сінтаксічная памылка</string>
+    <string name="Parse_error_dlg_text">Пры сінтаксічным аналізе пакета ўзнікла непаладка</string>
+    <string name="all">Усе дазволы</string>
+    <string name="button_cancel">Адмена</string>
+    <string name="button_continue">Працягнуць</string>
+    <string name="button_continue_install">Працягнуць</string>
+    <string name="button_install_lastest">Усталяваць</string>
+    <string name="button_install_official">Усталяваць</string>
+    <string name="button_next">Далей</string>
+    <string name="button_remove">Выдаліць</string>
+    <string name="installer_name">Крыніца: %1$s</string>
+    <string name="main_title">Усталяваць праграму</string>
+    <string name="permission_warn_hint">Дазволы праграмы:</string>
+    <string name="permission_warn_title">Праграма загружана з невядомай крыніцы</string>
+    <string name="progress_verifying">Праверка…</string>
+    <string name="update_log_default">Няма спісу зменаў</string>
+    <string name="update_time">%4$s дата выпуска: %2$s/%3$s/%1$s.</string>
+    <string name="update_title">%1$s абноўлена</string>
+    <string name="warn_message">Вашы асабістыя дадзеныя больш уразлівыя для атак праграм з невядомых крыніц</string>
+    <string name="warn_title">Падазроная праграма</string>
+</resources>

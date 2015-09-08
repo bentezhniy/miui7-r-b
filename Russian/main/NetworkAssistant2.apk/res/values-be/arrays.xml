@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>"Учора "</item>
+        <item>"Сёння "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Учора "</item>
+        <item>"Сёння "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Учора (мабільны інтэрнэт)</item>
+        <item>Сёння (мабільны інтэрнэт)</item>
+        <item>За месяц (мабільны інтэрнэт)</item>
+        <item>Учора (Wi-Fi)</item>
+        <item>Сёння (Wi-Fi)</item>
+        <item>За месяц (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Учора (мабільны інтэрнэт)</item>
+        <item>Сёння (мабільны інтэрнэт)</item>
+        <item>За месяц (мабільны інтэрнэт)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 сяк.</item>
+        <item>4 сяк.</item>
+        <item>5 сяк.</item>
+        <item>6 сяк.</item>
+        <item>7 сяк.</item>
+        <item>8 сяк.</item>
+        <item>9 сяк.</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"па мабільным трафіку "</item>
+        <item>"па трафіку Wi-Fi "</item>
+        <item>"па сціснутых дадзеных "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Мабільны трафік "</item>
+        <item>"Трафік Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Па мабільным трафіку</item>
+        <item>Па трафіку Wi-Fi</item>
+        <item>Па агульным трафіку</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Аўтаматычна атрымаць шаблон паведамлення</item>
+        <item>Задаць шаблон паведамлення ўручную</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Папярэджваць пра трафік</item>
+        <item>Адключаць інтэрнэт</item>
+    </string-array>
+    <string-array name="traffic_uints">
+        <item>Мб</item>
+        <item>Гб</item>
+    </string-array>
+    <string-array name="min_limit_pkg_default">
+        <item>1 Мб</item>
+        <item>2 Мб</item>
+        <item>3 Мб</item>
+    </string-array>
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Адказаць</item>
+        <item>Адказаць усім</item>
+        <item>Пераслаць</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Дробны</item>
+        <item>Нармальны</item>
+        <item>Сяредні</item>
+        <item>Вялікі</item>
+        <item>Вялізны</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Па змаўчанні</item>
+        <item>Фармат</item>
+        <item>Імя</item>
+        <item>Адпраўляльнік</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Сістэма</item>
+        <item>Нядаўнія</item>
+        <item>Усе папкі</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Перайсці да новага паведамлення</item>
+        <item>Перайсці да старога паведамлення</item>
+        <item>Перайсці да спіса дыялогаў</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Блог:</item>
+        <item>Сайт:</item>
+        <item>Email:</item>
+        <item>Мыбільны тэлефон:</item>
+        <item>Хатні тэлефон:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>Email:</item>
+        <item>Тэл:</item>
+        <item>Факс:</item>
+        <item>Пошта:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрас:</item>
+        <item>Тэлефон:</item>
+        <item>Імя:</item>
+        <item>Email:</item>
+        <item>Мабільны:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Паштовы індэкс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Адмова ад адказнасці:</item>
+        <item>Адмова ад адказнасці Email</item>
+        <item>Даслана праз WPSMail</item>
+        <item>Даслана з</item>
+        <item>Даслана з</item>
+        <item>Дзякуй,</item>
+        <item>З павагай</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Дзякуй,</item>
+        <item>З павагай</item>
+        <item>Даслана з майго</item>
+        <item>Арыгінальны Email</item>
+        <item>Даслана з майго</item>
+        <item>Даслана з</item>
+        <item>З</item>
+        <item>Гэты Email</item>
+        <item>Адмова ад адказнасці</item>
+        <item>Адмова ад адказнасці Email</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Паказваць архівы</item>
+        <item>Паказваць выдаленыя</item>
+        <item>Паказваць архівы і выдаленыя</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Паказваць новае паведамленне пасля выдалення</item>
+        <item>Паказваць старое паведамленне пасля выдалення</item>
+        <item>Паказваць спіс дыялогаў пасля выдалення</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Паказваць архівы</item>
+        <item>Паказваць выдаленыя</item>
+        <item>Паказваць архівы і выдаленыя</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Гатова</item>
+        <item>Няма злучэння</item>
+        <item>Немагчыма аўтарызавацца</item>
+        <item>Памылка бяспекі</item>
+        <item>Немагчыма сінхранізаваць</item>
+        <item>Памылка сервера</item>
+    </string-array>
+</resources>

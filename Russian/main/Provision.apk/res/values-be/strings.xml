@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Ласкава вітаем</string>
+    <string name="input_method_setting">Абярыце спосаб уводу</string>
+    <string name="input_method_category">Абярыце метад уводу па змоўчанні</string>
+    <string name="provision_inputmethod_policy_description">"Прагляд абранай клавіятуры "</string>
+    <string name="provision_inputmethod_policy_description1">Палітыка канфідэнцыяльнасці</string>
+    <string name="multisim_settings_title">Знойдзена 2 SIM-карткі</string>
+    <string name="multisim_settings_category">Налады SIM</string>
+    <string name="page_layout_title">Кампаноўка сістэмы</string>
+    <string name="page_layout_label">Пастаўце памер шрыфта, размяшчэнне іконак на працоўным стале, памер панэлі апавяшчэнняў і іншыя налады.</string>
+    <string name="sim_card_detection">Няма SIM-карткі</string>
+    <string name="sim_card_detecting_title">Праверка SIM-карткі</string>
+    <string name="sim_card_detection_info">Як уставіць SIM-картку прачытайце ў інструкцыі</string>
+    <string name="sim_card_detecting">Праверка SIM-карткі…</string>
+    <string name="other_settings">Дадаткова</string>
+    <string name="other_settings_location">Доступ да месцазнаходжання</string>
+    <string name="other_settings_location_summary">Дазволіць праграмам вызначаць месцазнаходжанне</string>
+    <string name="other_settings_user_experience">Дасыланне справаздач</string>
+    <string name="other_settings_user_experience_summary">Дасылаць ананімныя справаздачы (%s)</string>
+    <string name="other_settings_user_experience_summary1">"
+Палітыка бяспекі"</string>
+    <string name="next">Далей</string>
+    <string name="skip_underline"><u>Прапусціць</u></string>
+    <string name="sim_dectection_next">Працягнуць</string>
+    <string name="shut_down">Выключэнне</string>
+    <string name="sim_redetection">Праверыць SIM-картку паўторна</string>
+    <string name="title_congratulation">Налады завершаны</string>
+    <string name="congratulation_label">Атрымлівайце асалоду ад карыстання:)</string>
+    <string name="pref_title_voice_slot">Пажаданая SIM-картка голаса</string>
+    <string name="pref_title_data_slot">Пажаданая SIM-картка дадзеных</string>
+    <string name="summary_not_set">Не ўсталявана</string>
+    <string name="summary_sim_card">Картка %1$d%2$s</string>
+    <string name="summary_sim_card_with_operator">SIM-картка %1$d, %2$s</string>
+    <string name="ime_privacy_policy">Палітыка канфідэнцыяльнасці абранай клавіятуры</string>
+    <string name="ime_privacy_policy_no_network">Не атрымліваецца падлучыцца да інтэрнэту. Праглядзець палітыку канфідэнцыяльнасці для гэтай клавіятуры вы можаце на %s.</string>
+    <string name="terms_of_use">Умовы карыстання</string>
+    <string name="terms_of_use_label">Неабходна прыняць умовы карыстання і палітыку канфідэнцыяльнасці перад выкарыстаннем MIUI</string>
+    <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="agree">ОК</string>
+    <string name="disagree">Адмена</string>
+    <string name="network_access_warning">Для актывацыі прылады неабходны доступ да сеткі</string>
+    <string name="setting_locale">Налады месцазнаходжання…</string>
+    <string name="miui_terms_no_network">Сетка недасяжная. Праглядзіце ўмовы карыстання на %s</string>
+    <string name="miui_privacy_policy_no_network">Сетка недасяжная. Праглядзіце палітыку канфідэнцыяльнасці на %s</string>
+    <string name="locale_picker_title">Абярыце месцазнаходжанне</string>
+    <string name="provision_finish">ОК</string>
+    <string name="provision_finish_restart">Перазагрузіць</string>
+    <string name="install_preinstall_app">Загрузка праграм…</string>
+    <string name="congratulation_next">Гатова</string>
+    <string name="logo_congratulation">Наладка скончана</string>
+    <string name="locale_picker_desc">Калі вы хочаце змяніць месцазнаходжанне пазней, спатрэбіцца зрабіць агульны скід наладаў.</string>
+    <string name="terms_of_service">Умовы карыстання</string>
+    <string name="locale_picker_confirm_dialog_desc">Абраць \"%s\" як ваша месцазнаходжанне?</string>
+    <string name="locale_picker_confirm_dialog_title">Месцазнаходжанне</string>
+</resources>

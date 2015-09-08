@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Выдаліць %s фота з &amp;lt;b>Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Выдаліць %s фота з &amp;lt;b>Mi Cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Выдаліць %s фота?</item>
+        <item quantity="one">Выдаліць %s фота?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Выдаліць %s відэа з &amp;lt;b>Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Выдаліць %s відэа з &amp;lt;b>Mi Cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Выдаліць %s відэа?</item>
+        <item quantity="one">Выдаліць %s відэа?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="zero">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d фота</item>
+        <item quantity="one">%d фота</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d відэа</item>
+        <item quantity="one">%d відэа</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Папок: %d</item>
+        <item quantity="one">Папок: %d</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Няма доступа для выдалення гэтых файлаў (%d)</item>
+        <item quantity="one">Няма доступа для выдалення гэтых файлаў (%d)</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Вы можаце абраць элементаў: %d</item>
+        <item quantity="one">Вы можаце абраць элементаў: %d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">Выяваў: %1$d</item>
+        <item quantity="zero">Выяваў: %1$d</item>
+        <item quantity="one">Выяваў: %1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">Файлаў: %1$d</item>
+        <item quantity="zero">Файлаў: %1$d</item>
+        <item quantity="one">Файлаў: %1$d</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Выдаліць %s фота з &amp;lt;b>памяці тэлефона і Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Выдаліць %s фота з &amp;lt;b>памяці тэлефона і Mi Cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Выдаліць %s відэа з &amp;lt;b>памяці тэлефона і Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Выдаліць %s відэа з &amp;lt;b>памяці тэлефона і Mi Cloud&amp;lt;/b>?</item>
+    </plurals>
+</resources>

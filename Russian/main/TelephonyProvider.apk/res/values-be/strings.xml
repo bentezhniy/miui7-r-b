@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_provider_label">SMS</string>
+    <string name="mms_provider_label">MMS</string>
+    <string name="mms_sms_provider_label">Паведамленні</string>
+    <string name="app_label">Сховішча нумароў і паведамленняў</string>
+    <string name="default_cateogry_courier">"Кур'ер"</string>
+    <string name="default_cateogry_fraudulent">Махляр</string>
+    <string name="default_cateogry_intermediary">Пасярэднік</string>
+    <string name="default_cateogry_meal_delivery">Дастаўка ежы</string>
+    <string name="default_cateogry_sales">Продажы</string>
+</resources>

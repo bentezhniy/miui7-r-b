@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Кантакты з нумарамі тэлефонаў: %d</item>
+        <item quantity="one">Кантакты з нумарамі тэлефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Кантактаў: %d</item>
+        <item quantity="one">Кантактаў: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Знойдзена: %d</item>
+        <item quantity="one">Знойдзена: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знойдзена: %d</item>
+        <item quantity="one">Знойдзена: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">"Аб'яднанае з некалькіх крыніц (%0$d)"</item>
+        <item quantity="one">"Не аб'яднаны"</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Групаў: %0$d</item>
+        <item quantity="one">Групаў: 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s | Кантактаў: %1$d</item>
+        <item quantity="one">%2$s | Кантактаў: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Кантактаў: %1$d</item>
+        <item quantity="one">Кантактаў: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">Нумароў: %1$d</item>
+        <item quantity="one">Нумароў: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Галасавыя паведамленні: %1$d</item>
+        <item quantity="one">Галасавая пошта</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Абраных: %1$d</item>
+        <item quantity="one">Абраных: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Нядаўніх кантактаў: %1$d</item>
+        <item quantity="one">Нядаўніх кантактаў: 1</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Кантактаў: %1$d</item>
+        <item quantity="one">Кантактаў: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Нумароў: %1$d</item>
+        <item quantity="one">Нумароў: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Адрасоў Email: %1$d</item>
+        <item quantity="one">Адрасоў Email: 1</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Абраных: %1$d</item>
+        <item quantity="one">Абраных: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Нядаўніх кантактаў: %1$d</item>
+        <item quantity="one">Нядаўніх кантактаў: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Дададзена кантактаў: %1$d</item>
+        <item quantity="one">Дададзена кантактаў: %1$d</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Імпартавана кантактаў: %1$d</item>
+        <item quantity="one">Імпартавана кантактаў: %1$d</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="zero">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+    </plurals>
+</resources>

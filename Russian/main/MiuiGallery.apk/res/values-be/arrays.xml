@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>5 хвілін</item>
+        <item>15 хвілін</item>
+        <item>30 хвілін</item>
+        <item>1 гадзіна</item>
+        <item>Бясконца</item>
+    </string-array>
+</resources>

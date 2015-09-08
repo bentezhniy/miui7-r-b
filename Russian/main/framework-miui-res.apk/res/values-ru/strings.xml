@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alwaysUsePrompt">Исп. по умолчанию</string>
+    <string name="app_no_notification">ничего</string>
+    <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
+    <string name="christmas_day">Рождество</string>
+    <string name="device_hongmi">Телефон Hongmi</string>
+    <string name="device_xiaomi">Телефон Xiaomi</string>
+    <string name="first_back_long_press_message">"Вы хотите, чтобы функция долгого нажатия клавиши возврата, закрывало приложение и его сервисы? \n Включите через Настройки > Дополнительно > Клавиши"</string>
+    <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
+    <string name="global_actions_airplane_mode">Самолет</string>
+    <string name="global_actions_reboot">Перезагрузка</string>
+    <string name="global_actions_shutdown">Выключение</string>
+    <string name="global_actions_silent_mode">Без звука</string>
+    <string name="international_womens_day">Международный Женский день</string>
+    <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
+    <string name="lockscreen_access_pattern_cleared">Графический ключ очищен</string>
+    <string name="lockscreen_access_pattern_detected">Графический ключ завершен</string>
+    <string name="lockscreen_access_pattern_start">Графический ключ</string>
+    <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
+    <string name="memory_clear_result">"Очищено: %1$s Доступно: %2$s"</string>
+    <string name="miui_device_name">MIUI</string>
+    <string name="new_years_day">Новый год</string>
+    <string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
+    <string name="perm_send_push_lab">Отправка push-сообщений</string>
+    <string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
+    <string name="reboot_progress">Перезагрузка…</string>
+    <string name="screen_button_notification_text">"Нажмите \"Домой\"+\"Питание\" для включения"</string>
+    <string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
+    <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки \"Назад\"+\"Громкость +\""</string>
+    <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю половину экрана</string>
+    <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
+    <string name="select">Выбрать</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="shutdown_confirm_title">Вы уверены, что хотите выключить устройство?</string>
+    <string name="shutdown_progress">Выключение…</string>
+    <string name="valentines_day">День Святого Валентина</string>
+    <string name="winter_begins">Зима</string>
+</resources>

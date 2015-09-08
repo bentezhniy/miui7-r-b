@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d хв. таму</item>
+        <item quantity="one">%d хв. таму</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d г. таму</item>
+        <item quantity="one">%d г. таму</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d дз. таму</item>
+        <item quantity="one">%d дз. таму</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Ясна</item>
+        <item quantity="one">Сонечна</item>
+    </plurals>
+</resources>

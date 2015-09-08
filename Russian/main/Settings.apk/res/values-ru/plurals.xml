@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы в %1$d шагах от становления разработчиком</item>
+        <item quantity="one">Вы в %1$d шаге от становления разработчиком</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложения читающие уведомления: %d</item>
+        <item quantity="one">Приложения читающие уведомления: %d</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и Вам придется обратиться к оператору связи.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Найдено принтеров: %1$s</item>
+        <item quantity="one">Найдено принтеров: %1$s</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Вы в %1$d шагах от информации о телефоне</item>
+        <item quantity="one">Вы в %1$d шаге от информации о телефоне</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Вы в %1$d шагах от входа в инженерное меню</item>
+        <item quantity="one">Вы в %1$d шаге от входа в инженерное меню</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Вы в %1$d шагах от отправки отчета</item>
+        <item quantity="one">Вы в %1$d шаге от отправки отчета</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Несколько приложений (%d) задают условия</item>
+        <item quantity="one">%d приложение задает условия</item>
+    </plurals>
+</resources>

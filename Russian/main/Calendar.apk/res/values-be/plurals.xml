@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">за 1 г.</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">1 день</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d тыдз.</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">" і яшчэ %d"</item>
+        <item quantity="one">" і яшчэ 1"</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d здарэнняў</item>
+        <item quantity="one">1 здарэнне</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+ Здарэнняў: %d</item>
+        <item quantity="one">+ Здарэнняў: 1</item>
+    </plurals>
+</resources>

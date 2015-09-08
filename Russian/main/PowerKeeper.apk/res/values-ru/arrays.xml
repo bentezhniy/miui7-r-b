@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="action_name_translate">
+        <item>Максимальная яркость экрана</item>
+        <item>Максимальная частота</item>
+        <item>Режим экрана</item>
+        <item>Использование CPU</item>
+        <item>Мобильное соединение</item>
+        <item>Местоположение</item>
+        <item>Первое уведомление</item>
+        <item>Уведомления экрана блокировки</item>
+        <item>Restrict background data connections</item>
+     </string-array>
+     <string-array name="action_param_translate">
+        <item>Нет</item>
+        <item>По умолчанию</item>
+        <item>Изображения</item>
+        <item>Видео</item>
+        <item>Энергосбережение</item>
+        <item>Баланс</item>
+        <item>Производительность</item>
+        <item>Включено</item>
+        <item>Выключено</item>
+        <item>Immediately</item>
+        <item>После 10 мин</item>
+        <item>После 30 мин</item>
+        <item>При выключении экрана</item>
+     </string-array>
+     <string-array name="app_groups">
+        <item>selected</item>
+        <item>unselected</item>
+        <item>other selected</item>
+     </string-array>
+     <string-array name="event_name_translate">
+        <item>Приложение в фоновом режиме</item>
+        <item>Экран включен</item>
+        <item>Экран выключен</item>
+        <item>Выключение экрана через 10 минут</item>
+        <item>Полноэкранный режим</item>
+        <item>Выход из полноэкранного режима</item>
+        <item>Приложение в фоновом режиме</item>
+        <item>Заряжается</item>
+        <item>Не заряжается</item>
+        <item>Обычной режим</item>
+     </string-array>
+     <string-array name="group_name_translate">
+        <item>По умолчанию</item>
+        <item>Фоновый режим</item>
+        <item>Режим чтения</item>
+        <item>Режим медиа</item>
+     </string-array>
+</resources>

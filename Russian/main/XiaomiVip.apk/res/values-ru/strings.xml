@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cube_ptr_pull_down">Потяните вниз</string>
+    <string name="cube_ptr_pull_down_to_refresh">Потяните для обновления</string>
+    <string name="cube_ptr_release_to_refresh">Проведите для обновления</string>
+    <string name="cube_ptr_refreshing">Обновление...</string>
+    <string name="cube_ptr_refresh_complete">Обновлено.</string>
+    <string name="cube_ptr_last_update">последлнее обновление: </string>
+    <string name="cube_ptr_seconds_ago"> секунд назад</string>
+    <string name="cube_ptr_minutes_ago"> минут назад</string>
+    <string name="cube_ptr_hours_ago"> часов назад</string>
+    <string name="app_name">XiaomiVIP</string>
+    <string name="level">Уровень</string>
+    <string name="level_exp_value" formatted="false">%d/%d</string>
+    <string name="level_detail">Дневное ограничение заданий: %d</string>
+    <string name="action">Просмотр</string>
+    <string name="task">Задания</string>
+    <string name="today_task">"Сегодняшние задания"</string>
+    <string name="today_task_format" formatted="false">%d/%d</string>
+    <string name="passive_task">Фоновые задания</string>
+    <string name="task_score">%d очков</string>
+    <string name="task_ongoing">Продолжаются</string>
+    <string name="task_done">Готово</string>
+    <string name="task_start">Начать</string>
+    <string name="task_take_award">Получить награды</string>
+    <string name="query_user_tasks_fail">"Не удалось получить информацию"</string>
+    <string name="my_award">Мои награды</string>
+    <string name="validity">Истекает %s</string>
+    <string name="expired">Истек</string>
+    <string name="award_time">Собрано %s</string>
+    <string name="no_award">Нет наград</string>
+    <string name="query_level_fail">"Не удалось получить информацию"</string>
+    <string name="award_taken">Очков собрано</string>
+    <string name="task_begin">В процессе…</string>
+    <string name="in_progress">Отправка запроса…</string>
+    <string name="privilege">Привилегии</string>
+    <string name="promote">Уровень</string>
+    <string name="level_info_format" formatted="false">"Уровень %d %d/%d
+%s"</string>
+    <string name="no_network">"Нет подключения к сети"</string>
+    <string name="task_limit">Нет заданий на сегодня. Увидимся завтра!</string>
+    <string name="no_task">Все задания завершены</string>
+    <string name="fail_reach_server">"Нет связи с сервером"</string>
+    <string name="no_app">Установите приложение</string>
+    <string name="use">Использовать</string>
+    <string name="already_used">Использовано</string>
+    <string name="unlimited_task">Спец задания</string>
+    <string name="take_awarded_package">Купить</string>
+    <string name="awarded_package_is_expired">Истек</string>
+    <string name="awarded_package_was_redeemed">Куплено</string>
+    <string name="take_awarded_package_failed">"Не смог купить подарок. Подождите минуту или две и попробуйте снова."</string>
+    <string name="invalid_json">Что-то пошло не так</string>
+    <string name="task_select_title">Выбор задач</string>
+    <string name="task_not_completed">Не завершено</string>
+    <string name="task_completed">Завершено</string>
+    <string name="exp_buff">+%s%% опыт</string>
+    <string name="upgraded">Новый уровень!</string>
+    <string name="experience">Опыт</string>
+    <string name="giveup">Сдаться</string>
+</resources>

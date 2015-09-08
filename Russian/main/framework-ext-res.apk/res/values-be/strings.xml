@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_toggle_ac">Доступ</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_auto_brightness">Падсветка</string>
+    <string name="status_bar_toggle_data">Інтэрнэт</string>
+    <string name="status_bar_toggle_flight_mode">Палёт</string>
+    <string name="status_bar_toggle_gps">GPS</string>
+    <string name="status_bar_toggle_lock">Блакіроўка</string>
+    <string name="status_bar_toggle_mute">Без гуку</string>
+    <string name="status_bar_toggle_privacy_mode">Госць</string>
+    <string name="status_bar_toggle_rotate">Паварот</string>
+    <string name="status_bar_toggle_screen_button">Клавішы</string>
+    <string name="status_bar_toggle_screenshot">Скрыншот</string>
+    <string name="status_bar_toggle_sync">Сінхраніз.</string>
+    <string name="status_bar_toggle_torch">Ліхтарык</string>
+    <string name="status_bar_toggle_vibrate">Вібрацыя</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_power_mode">Прадукцыйнасць</string>
+    <string name="status_bar_toggle_wifi_ap">Wi-Fi мадэм</string>
+    <string name="status_bar_toggle_quiet_mode">Не турбаваць</string>
+    <string name="status_bar_toggle_paper_mode">Рэжым чытання</string>
+    <string name="screen_rotation_freeze_message">Паварот экрана заблякаваны</string>
+    <string name="screen_button_disabled_message">Кнопкі будуць выключаныя. Вы можаце ўключыць іх зноў, націснуўшы кнопкі \"Дадому\" + \"Уключэнне\".</string>
+    <string name="screen_button_enabled_message">Кнопкі ўключаны</string>
+    <string name="status_bar_toggle_brightness">Яркасць</string>
+    <string name="status_bar_toggle_divider">Яшчэ</string>
+    <string name="status_bar_toggle_drive_mode">У машыне</string>
+    <string name="status_bar_toggle_network_type">Тып сеткі</string>
+    <string name="status_bar_toggle_reboot">Перазагрузка</string>
+    <string name="status_bar_toggle_shutdown">Выключэнне</string>
+    <string name="status_bar_toggle_sync_auto">Аўтасінхран.</string>
+    <string name="status_bar_toggle_sync_manual">Ручная сінхранізацыя</string>
+    <string name="status_bar_toggle_syncing">Сінхранізацыя</string>
+</resources>

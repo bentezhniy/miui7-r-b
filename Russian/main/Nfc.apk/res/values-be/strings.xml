@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="inbound_me_profile_title">Кантакты, атрыманыя праз NFC</string>
+    <string name="inbound_me_profile_text">Націсніце для дадавання карыстальніка ў кантакты</string>
+    <string name="outbound_me_profile_title">Перадача па NFC завершана</string>
+    <string name="outbound_me_profile_text">Націсніце, каб даслаць карыстальніку сваю кантактную інфармацыю.</string>
+    <string name="accessibility_nfc_enabled">NFC уключаны</string>
+    <string name="touch">Націсніце 2 разы для дасылання па NFC</string>
+    <string name="beam_progress">Атрыманне файла па NFC…</string>
+    <string name="beam_outgoing">Абмен…</string>
+    <string name="beam_complete">Перадача завершана</string>
+    <string name="beam_failed">Памылка перадачы</string>
+    <string name="beam_canceled">Перадача скасавана</string>
+    <string name="cancel">Адмена</string>
+    <string name="beam_touch_to_view">Націсніце для прагляду</string>
+    <string name="beam_handover_not_supported">Прылада атрымальніка не падтрымлівае прыём вялікіх файлаў</string>
+    <string name="beam_try_again">Паднясіце прылады адна да другой зноў</string>
+    <string name="connecting_headset">Падключэнне…</string>
+    <string name="connected_headset">Пвыключана</string>
+    <string name="connect_headset_failed">Немагчыма падключыцца</string>
+    <string name="disconnecting_headset">Выключэнне…</string>
+    <string name="disconnected_headset">Выключано</string>
+    <string name="pairing_headset">Спалучэнне…</string>
+    <string name="pairing_headset_failed">Памылка спалучэння</string>
+    <string name="failed_to_enable_bt">Немагчыма ўключыць Bluetooth</string>
+    <string name="confirm_pairing">Выканаць спалучэнне Bluetooth-прылады \"%1$s\"?</string>
+    <string name="pair_yes">ОК</string>
+    <string name="pair_no">Адмена</string>
+    <string name="tap_again_to_pay">Націсніце яшчэ раз, каб аплаціць з %1$s</string>
+    <string name="tap_again_to_complete">Націсніце яшчэ раз для завяршэння з %1$s</string>
+    <string name="transaction_failure">Працэс не можа быць завершаны з %1$s</string>
+    <string name="could_not_use_app">Немагчыма выкарыстоўваць %1$s</string>
+    <string name="pay_with">Аплаціць</string>
+    <string name="complete_with">Завершана</string>
+    <string name="default_pay_app_removed">Ваш абраны сэрвіс аплаты выдалены. Абраць іншы?</string>
+</resources>

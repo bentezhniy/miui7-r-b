@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_featured_tabs">
+        <item>Лепшыя</item>
+        <item>Топ</item>
+        <item>Новыя</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Лепшыя</item>
+        <item>Топ</item>
+        <item>Новыя</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Анлайн</item>
+        <item>Тэлефон</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Эпізод</item>
+        <item>Апісанне</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Усе лепшыя</item>
+        <item>Мае лепшыя</item>
+    </string-array>
+    <string-array name="movie_channel_tabs">
+        <item>Рэкамендуемыя</item>
+        <item>Топ</item>
+        <item>Лепшыя</item>
+        <item>Новыя</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Рэкамендуемыя</item>
+        <item>Лепшыя</item>
+    </string-array>
+</resources>

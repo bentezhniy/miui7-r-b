@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">"Правайдэр надвор'я"</string>
+    <string name="view_indexes_wind_unit">км/г</string>
+    <string name="aqi_quality_index_pure">ІКВ %1$s</string>
+    <string name="aqi_quality_index_good">ІКВ %1$s</string>
+    <string name="aqi_quality_index_moderate">ІКВ %1$s</string>
+    <string name="aqi_quality_index_light_pollution">ІКВ %1$s</string>
+    <string name="aqi_quality_index_unhealthy">ІКВ %1$s</string>
+    <string name="aqi_quality_index_dangerous">ІКВ %1$s</string>
+    <string name="aqi_quality_index_hazardous">ІКВ %1$s</string>
+    <string name="aqi_quality_index_break">ІКВ %1$s</string>
+    <string name="view_realtime_clear_substitution">Ясна</string>
+</resources>

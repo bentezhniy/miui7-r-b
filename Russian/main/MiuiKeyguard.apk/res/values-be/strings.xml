@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Скід</string>
+    <string name="unlockscreen_recharging_message">Зарадка: %d%%</string>
+    <string name="unlockscreen_recharge_completed">Батарэя зараджана</string>
+    <string name="unlockscreen_low_battery">Батарэя разраджана</string>
+    <string name="lockscreen_charging_msg">Зарадка</string>
+    <string name="emergency_call_string">Экстраны выклік</string>
+    <string name="forget_password_string">Забылі пароль</string>
+    <string name="input_puk_code">Увядзіце PUK-код</string>
+    <string name="unlocking_sim_card">Разблакіроўка SIM-карткі</string>
+    <string name="input_pin_code">Увядзіце PIN-код</string>
+    <string name="incorrect_pukcode_remaining_attempts">Няслушны PUK-код. Засталося спробаў: %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Няслушны PIN-код. Засталося спробаў: %d</string>
+    <string name="incorrect_pukcode">Няслушны PUK-код</string>
+    <string name="incorrect_pincode">Няслушны PIN-код</string>
+    <string name="open_wifi_settings">Адчыніць сеткавыя падключэнні</string>
+    <string name="lock_screen_date">"d MMMM yyyy 
+EEEE"</string>
+    <string name="lockscreen_glogin_password_hint">Пароль</string>
+    <string name="lockscreen_glogin_checking_password">Праверка…</string>
+    <string name="login_website_in_case_forget_password">Для скіду пароля, перайдзіце на сайт \"i.mi.com\".</string>
+    <string name="experimental_validate_thanks">Дзякуй!</string>
+    <string name="experimental_validate_warning">Дзякуй за дапамогу, вы робіце MIUI лепш!</string>
+    <string name="experimental_validate">Праверка</string>
+    <string name="experimental_try_string">Паўтарыць</string>
+    <string name="experimental_validate_username">Імя карыстальніка</string>
+    <string name="experimental_validate_password">Пароль</string>
+    <string name="experimental_validate_progress">Аўтарызацыя…</string>
+    <string name="experimental_validate_fail">Памылка аўтарызацыі</string>
+    <string name="lockscreen_glogin_invalid_input">Няслушныя імя карыстальніка альбо пароль</string>
+    <string name="find_device_turn_off_flight_mode">Выключыць рэжым палёту</string>
+    <string name="phone_locked_string">Тэлефон заблакаваны</string>
+    <string name="phone_locked_timeout_seconds_string">Паўтарыце спробу праз %s сек.</string>
+    <string name="phone_locked_timeout_minutes_string">Паўтарыце спробу праз %s хв.</string>
+    <string name="input_password_hint_text">Увядзіце пароль</string>
+    <string name="unlock_sim_string">Разблакаваць SIM-картку</string>
+    <string name="lockscreen_glogin_submit_button">Уваход</string>
+    <string name="lockscreen_access_pattern_start">Пачатак ключа</string>
+    <string name="lockscreen_access_pattern_cleared">Ключ ачышчаны</string>
+    <string name="lockscreen_access_pattern_cell_added">Аператар дададзены</string>
+    <string name="lockscreen_access_pattern_detected">Канец ключа</string>
+    <string name="default_lockscreen_unlock_hint_text">Разблакаваць</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы ўвялі пароль памылкова %d разоў(ы). Пасля %d памылковых спробаў уводу вам будзе прапанавана разблакаваць тэлефон з дапамогай Mi-акаўнта.
+
+ Паўтарыце спробу праз %d сек."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы ўвялі пароль памылкова %d разоў(ы). Пасля %d памылковых спробаў усе дадзеныя будуць ачышчаны і адноўлены завадскія налады.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Вы ўвялі пароль памылкова %d разоў(ы). Усе дадзеныя будуць ачышчаны і адноўлены завадскія налады.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Разблакавана браслетам</string>
+    <string name="missed_call_text">Прапушчаных выклікаў: %d</string>
+    <string name="wrong_password">Няслушны пароль</string>
+    <string name="keyguard_torch_cover_text">Каб ліхтарык не выключыўся, націсніце клавішу сілкавання.</string>
+    <string name="confirm_pin_msg">Увядзіце PIN паўторна</string>
+    <string name="invalid_confirm_pin_hint">PIN-кады не супадаюць</string>
+    <string name="unlock_string">ОК</string>
+    <string name="open_camera_hint_text">Адчыніць камеру</string>
+    <string name="open_remote_center_hint_text">Адчыніць тэлефон</string>
+    <string name="click_to_enter_text">Праглядзець</string>
+    <string name="bluetooth_unlock_rssi_far_debug_msg">Браслет знаходзіцца занадта далёка, каб разблакаваць.</string>
+    <string name="contact_carrier_message">Звяжыцеся з вашым мабільным аператарам, калі ўзніклі пытанні.</string>
+    <string name="find_device_check_sim">Праверка SIM-карткі…</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"Вашы тэлефон заблакаваны. 
+Калі ласка, выключыце рэжым палёту."</string>
+    <string name="input_pin_code_to_unlock">Увядзіце PIN-код для разблакіроўкі прылады</string>
+    <string name="input_puk_code_to_unlock">Увядзіце PUK-код для разблакіроўкі прылады</string>
+    <string name="lockscreen_emergency_call">Экстраны выклік</string>
+    <string name="lockscreen_forgot_pattern_button_text">Аднавіць</string>
+    <string name="lockscreen_glogin_forgot_pattern">Разблакаваць акаўнт</string>
+    <string name="lockscreen_glogin_instructions">Увайдзіце ў Mi-акаўнт для разблакіроўкі</string>
+    <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спробаў уводу</string>
+    <string name="lockscreen_pattern_instructions">Намалюйце графічны ключ</string>
+    <string name="lockscreen_pattern_wrong">Няслушны ключ</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Паўтарыце спробу праз %d сек.</string>
+    <string name="lockscreen_transport_next_description">Далей</string>
+    <string name="lockscreen_transport_play_description">Клавіша прайгравання</string>
+    <string name="lockscreen_transport_prev_description">Назад</string>
+    <string name="miui_unlockscreen_password_wrong">Няслушны ключ</string>
+    <string name="pin_operation_failed">Памылка PIN-кода</string>
+    <string name="pincode_set_to_default_msg">Усталяваны PIN-код 1234, вы можаце змяніць яго тут:</string>
+    <string name="puk_operation_failed">Памылка PUK-кода</string>
+    <string name="return_to_me_message">Вы можаце вярнуцца</string>
+    <string name="screen_on_proximity_sensor_hint">Прымусовы выхад: націсніце кнопкі \"Назад\"+\"Гучнасць +\"</string>
+    <string name="screen_on_proximity_sensor_summary">Выкарыстоўваць датчык набліжэння для папярэджання выпадковых націскаў на экран заблакаванага тэлефона</string>
+    <string name="screen_on_proximity_sensor_title">Папярэджанне выпадковых націскаў</string>
+    <string name="short_pincode_error_msg">Увядзіце 4–8 лічб</string>
+    <string name="short_pukcode_error_msg">Неабходна ўвесці не менш за 8 лічбаў</string>
+    <string name="starting_camera_string">Запуск камеры</string>
+</resources>

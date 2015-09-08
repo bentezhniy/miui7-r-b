@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Полная копия</string>
+    <string name="restore_confirm_title">Полное восстановление</string>
+    <string name="backup_confirm_text">"Полное резервное копирование всех данных на подключенный стационарный компьютер. Разрешить?
+
+Если вы не запрашивали разрешения, не подтверждайте эту операцию."</string>
+    <string name="allow_backup_button_label">Копия данных</string>
+    <string name="deny_backup_button_label">Не копировать</string>
+    <string name="restore_confirm_text">"Полное восстановление всех данных из подключенного стационарного компьютера. Разрешить?
+
+Если вы не запрашивали разрешения, не подтверждайте эту операцию. Это заменит все данные на вашем устройстве!"</string>
+    <string name="allow_restore_button_label">Восстановление данных</string>
+    <string name="deny_restore_button_label">Не востанавливать</string>
+    <string name="current_password_text">Введите ваш текущий пароль восстановления:</string>
+    <string name="device_encryption_restore_text">Пожалуйста, введите ниже ваш пароль.</string>
+    <string name="device_encryption_backup_text">Пожалуйста, введите ниже ваш пароль. Он будет использоваться для защиты данных.</string>
+    <string name="backup_enc_password_text">Пожалуйста, введите пароль, используемый для шифрования полного резервного копирования данных. Если это поле оставлено пустым, будет использоваться ваш текущий пароль резервного копирования:</string>
+    <string name="backup_enc_password_optional">Если вы хотите зашифровать полную резервную копию данных, введите пароль ниже:</string>
+    <string name="restore_enc_password_text">Если восстанавливаемые данные зашифрованы, введите пароль ниже:</string>
+    <string name="toast_backup_started">Копирование начато...</string>
+    <string name="toast_backup_ended">Копирование завершено</string>
+    <string name="toast_restore_started">Восстановление начато...</string>
+    <string name="toast_restore_ended">Восстановление завершено</string>
+    <string name="toast_timeout">Превышено время ожидания</string>
+</resources>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>10 хвілін</item>
+        <item>15 хвілін</item>
+        <item>30 хвілін</item>
+        <item>45 хвілін</item>
+        <item>1 гадзіна</item>
+        <item>1.5 гадзіны</item>
+        <item>2 гадзіны</item>
+    </string-array>
+    <string-array name="sleep_duration_values_seconds">
+        <item>600</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+        <item>5400</item>
+        <item>7200</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Усе станцыі</item>
+        <item>Старыя хіты</item>
+        <item>Класіка</item>
+        <item>Класічны рок</item>
+        <item>Коледж</item>
+        <item>Кантры</item>
+        <item>Энэргічныя</item>
+        <item>Энэргічныя Test</item>
+        <item>Замежныя</item>
+        <item>Інфармацыйныя</item>
+        <item>Джаз</item>
+        <item>Навінкі</item>
+        <item>Настальгія</item>
+        <item>Старыя песні</item>
+        <item>Персанальныя</item>
+        <item>Грамадскія</item>
+        <item>Релігійная музыка</item>
+        <item>Релігійныя размовы</item>
+        <item>Рытм і блюз</item>
+        <item>Рок</item>
+        <item>Софт</item>
+        <item>Софт рок</item>
+        <item>Софт рытм і блюз</item>
+        <item>Спартыўныя</item>
+        <item>Размовы</item>
+        <item>Топ-40</item>
+        <item>"Надвор'е"</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Усе станцыі</item>
+        <item>Культура</item>
+        <item>Бягучыя пытанні</item>
+        <item>Дзіцячыя станцыі</item>
+        <item>Кантры</item>
+        <item>Дакументальныя</item>
+        <item>Драма</item>
+        <item>Спакойная музыка</item>
+        <item>Адукацыя</item>
+        <item>Энэргія</item>
+        <item>Энэргія тэст</item>
+        <item>Фінансы</item>
+        <item>Народная музыка</item>
+        <item>Інфармацыйныя</item>
+        <item>Джазавая музыка</item>
+        <item>Лёгкая класіка</item>
+        <item>Вольны час</item>
+        <item>Навінкі</item>
+        <item>Нацыянальная музыка</item>
+        <item>Іншая музыка</item>
+        <item>Старая музыка</item>
+        <item>Тэлефонная</item>
+        <item>Поп-музыка</item>
+        <item>Рэлігія</item>
+        <item>Рок-музыка</item>
+        <item>Навука</item>
+        <item>Строгая класіка</item>
+        <item>Сацыяльныя пытанні</item>
+        <item>Спорт</item>
+        <item>Вандроўкі</item>
+        <item>Розныя</item>
+        <item>"Надвор'е"</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Перайменаваць</item>
+        <item>Аўтавыбар</item>
+        <item>Выдаліць</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>Паўночная Амерыка</item>
+        <item>Еўропа</item>
+        <item>Японія</item>
+        <item>Японія (шырокі)</item>
+        <item>Аўстралія</item>
+        <item>Аўстрыя</item>
+        <item>Бельгія</item>
+        <item>Бразілія</item>
+        <item>Кітай</item>
+        <item>Чэхія</item>
+        <item>Данія</item>
+        <item>Фінляндыя</item>
+        <item>Францыя</item>
+        <item>Германія</item>
+        <item>Грэцыя</item>
+        <item>Ганконг</item>
+        <item>Індыя</item>
+        <item>Ірландыя</item>
+        <item>Італія</item>
+        <item>Карэя</item>
+        <item>Мексіка</item>
+        <item>Нідэрланды</item>
+        <item>Новая Зеландыя</item>
+        <item>Нарвегія</item>
+        <item>Польшча</item>
+        <item>Партугалія</item>
+        <item>Расія</item>
+        <item>Сінгапур</item>
+        <item>Славакія</item>
+        <item>Іспанія</item>
+        <item>Швейцарыя</item>
+        <item>Швецыя</item>
+        <item>Тайвань</item>
+        <item>Турцыя</item>
+        <item>Злучанае Каралеўства</item>
+        <item>Злучаныя Штаты Амерыкі</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Паўночная Амерыка (87,5 МГц до 108.0 МГц с шагом 200 кГц)</item>
+        <item>Еўропа (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Японія (76.0 МГц до 90.0 МГц с шагом 100 кГц)</item>
+        <item>Японія (Wide) (90,0 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Аўстралія (87,7 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Аўстрыя (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Бельгія (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Бразілія (87,8 МГц до 108.0 МГц шаг 200 кГц)</item>
+        <item>Кітай (87,0 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Чэхія (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Данія (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Фінляндыя (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Францыя (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Германія (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Грэцыя (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Ганконг (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Індыя (91,0 МГц до 106.4 МГц с шагом 100 кГц)</item>
+        <item>Ірландыя (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Італія (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Карэя (87,5 МГц до 108.0 МГц с шагом 200 кГц)</item>
+        <item>Мексіка (88,1 МГц до 107,9 МГц с шагом 200 кГц)</item>
+        <item>Нідэрланды (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Новая Зеландыя (88,0 МГц до 107.0 МГц с шагом 100 кГц)</item>
+        <item>Нарвегія (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Польшча (88,0 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Партугалія (87,5 МГц до 108.0 МГц с шагом 50 кГц)</item>
+        <item>Расія (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Сінгапур (88,0 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Славакія (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Іспанія (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Швейцарыя (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Швецыя (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Тайвань (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Турцыя (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Злучанае Каралеўства (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
+        <item>Злучаныя Штаты Амерыкі (88,1 МГц до 107,9 МГц с шагом 200 кГц)</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Атрымаць бягучыя параметры станцыі</item>
+        <item>Атрымаць параметры станцыі з паўторам 20 разоў</item>
+        <item>Атрымаць параметры пошуку станцыі</item>
+        <item>Атрымаць інфармацыю пра выканаўцаў</item>
+        <item>Налады пошуку FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Усталяваць FM RSSI Delta</item>
+        <item>Усталяваць парог сігнала</item>
+        <item>Статыстыка RF</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Абярыце параметр</item>
+        <item>Налады пошуку FM</item>
+        <item>Статыстыка RF</item>
+    </string-array>
+</resources>

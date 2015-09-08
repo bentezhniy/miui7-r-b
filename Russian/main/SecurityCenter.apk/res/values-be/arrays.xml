@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_memory_clean">
+        <item>Праз 1 хвіліну</item>
+        <item>Праз 5 хвілін</item>
+        <item>Праз 10 хвілін</item>
+        <item>Ніколі</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Праз 1 хвіліну</item>
+        <item>Праз 5 хвілін</item>
+        <item>Праз 10 хвілін</item>
+        <item>Ніколі</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвіліна</item>
+        <item>2 хвіліны</item>
+        <item>5 хвілін</item>
+        <item>10 хвілін</item>
+        <item>Ніколі</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Прадукцыйнасць</item>
+        <item>Баланс</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Выключыць</item>
+        <item>Уключыць</item>
+        <item>Не змяняць</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Ніколі</item>
+        <item>У рэжыме \"Без гуку\"</item>
+        <item>Заўсёды</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Аднакроць</item>
+        <item>Штодня</item>
+        <item>У працоўныя дні</item>
+        <item>Па буднях</item>
+        <item>Абраць дні</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Аднакроць</item>
+        <item>Штодня</item>
+        <item>Па буднях</item>
+        <item>Абраць дні</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Па памеры</item>
+        <item>Па імені</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Па частаце выкарыстання</item>
+        <item>Па памеры</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Па памеры</item>
+        <item>Па імені</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 Мб</item>
+        <item>300 Мб</item>
+        <item>500 Мб</item>
+        <item>1 Гб</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Штодня</item>
+        <item>Кожныя 3 дня</item>
+        <item>Кожныя 7 дзён</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Пытаць перад ачысткай</item>
+        <item>Чысціць у фоне</item>
+        <item>Апавяшчаць пасля ачысткі</item>
+    </string-array>
+</resources>
